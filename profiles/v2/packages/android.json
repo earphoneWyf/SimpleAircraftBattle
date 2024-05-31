@@ -1,0 +1,156 @@
+{
+  "__version__": "1.0.1",
+  "builder": {
+    "common": {
+      "buildPath": "project://build",
+      "outputName": "android",
+      "mainBundleCompressionType": "merge_dep",
+      "platform": "android"
+    },
+    "options": {
+      "android": {
+        "packageName": "com.android.airplaneBattle",
+        "resizeableActivity": true,
+        "maxAspectRatio": "2.4",
+        "orientation": {
+          "portrait": true,
+          "upsideDown": false,
+          "landscapeRight": false,
+          "landscapeLeft": false
+        },
+        "apiLevel": 28,
+        "appABIs": [
+          "arm64-v8a"
+        ],
+        "useDebugKeystore": true,
+        "keystorePath": "",
+        "keystorePassword": "",
+        "keystoreAlias": "",
+        "keystoreAliasPassword": "",
+        "appBundle": false,
+        "androidInstant": false,
+        "inputSDK": false,
+        "remoteUrl": "",
+        "sdkPath": "",
+        "ndkPath": "",
+        "javaHome": "",
+        "javaPath": "",
+        "renderBackEnd": {
+          "vulkan": false,
+          "gles3": true,
+          "gles2": false
+        },
+        "swappy": false,
+        "__version__": "1.0.1"
+      }
+    },
+    "taskOptionsMap": {
+      "1713786856076": {
+        "packageName": "com.android.airplaneBattle",
+        "resizeableActivity": true,
+        "maxAspectRatio": "2.4",
+        "orientation": {
+          "portrait": true,
+          "upsideDown": false,
+          "landscapeRight": false,
+          "landscapeLeft": false
+        },
+        "apiLevel": 28,
+        "appABIs": [
+          "arm64-v8a"
+        ],
+        "useDebugKeystore": true,
+        "keystorePath": "",
+        "keystorePassword": "",
+        "keystoreAlias": "",
+        "keystoreAliasPassword": "",
+        "appBundle": false,
+        "androidInstant": false,
+        "inputSDK": false,
+        "remoteUrl": "",
+        "sdkPath": "",
+        "ndkPath": "",
+        "javaHome": "",
+        "javaPath": "",
+        "renderBackEnd": {
+          "vulkan": false,
+          "gles3": true,
+          "gles2": false
+        },
+        "swappy": false,
+        "__version__": "1.0.1"
+      },
+      "1713856252943": {
+        "packageName": "com.android.airplaneBattle",
+        "resizeableActivity": true,
+        "maxAspectRatio": "2.4",
+        "orientation": {
+          "portrait": true,
+          "upsideDown": false,
+          "landscapeRight": false,
+          "landscapeLeft": false
+        },
+        "apiLevel": 28,
+        "appABIs": [
+          "arm64-v8a"
+        ],
+        "useDebugKeystore": true,
+        "keystorePath": "",
+        "keystorePassword": "",
+        "keystoreAlias": "",
+        "keystoreAliasPassword": "",
+        "appBundle": false,
+        "androidInstant": false,
+        "inputSDK": false,
+        "remoteUrl": "",
+        "sdkPath": "",
+        "ndkPath": "",
+        "javaHome": "",
+        "javaPath": "",
+        "renderBackEnd": {
+          "vulkan": false,
+          "gles3": true,
+          "gles2": false
+        },
+        "swappy": false,
+        "__version__": "1.0.1"
+      },
+      "1713940565225": {
+        "packageName": "com.android.airplaneBattle",
+        "resizeableActivity": true,
+        "maxAspectRatio": "2.4",
+        "orientation": {
+          "portrait": true,
+          "upsideDown": false,
+          "landscapeRight": false,
+          "landscapeLeft": false
+        },
+        "apiLevel": 28,
+        "appABIs": [
+          "arm64-v8a"
+        ],
+        "useDebugKeystore": true,
+        "keystorePath": "",
+        "keystorePassword": "",
+        "keystoreAlias": "",
+        "keystoreAliasPassword": "",
+        "appBundle": false,
+        "androidInstant": false,
+        "inputSDK": false,
+        "remoteUrl": "",
+        "sdkPath": "",
+        "ndkPath": "",
+        "javaHome": "",
+        "javaPath": "",
+        "renderBackEnd": {
+          "vulkan": false,
+          "gles3": true,
+          "gles2": false
+        },
+        "swappy": false,
+        "__version__": "1.0.1"
+      }
+    },
+    "__version__": "1.3.7"
+  }
+}

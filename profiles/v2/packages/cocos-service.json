@@ -1,0 +1,149 @@
+{
+  "__version__": "3.0.7",
+  "builder": {
+    "options": {
+      "web-desktop": {
+        "configID": "22ed39",
+        "services": []
+      },
+      "android": {
+        "configID": "22ed39",
+        "services": []
+      },
+      "wechatgame": {
+        "configID": "22ed39",
+        "services": []
+      },
+      "xiaomi-quick-game": {
+        "configID": "22ed39",
+        "services": []
+      }
+    },
+    "taskOptionsMap": {
+      "1713786856076": {
+        "configID": "22ed39",
+        "services": []
+      },
+      "1713856252943": {
+        "configID": "22ed39",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1713856493772": {
+        "configID": "22ed39",
+        "services": []
+      },
+      "1713857166049": {
+        "configID": "22ed39",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1713859541959": {
+        "configID": "22ed39",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1713863740456": {
+        "configID": "22ed39",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1713874335156": {
+        "configID": "22ed39",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1713924034449": {
+        "configID": "22ed39",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1713925140150": {
+        "configID": "22ed39",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1713925320527": {
+        "configID": "22ed39",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1713925525287": {
+        "configID": "22ed39",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1713925792082": {
+        "configID": "22ed39",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1713925987506": {
+        "configID": "22ed39",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1713928363793": {
+        "configID": "22ed39",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1713939194204": {
+        "configID": "22ed39",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1713940321830": {
+        "configID": "22ed39",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1713940481022": {
+        "configID": "22ed39",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1713940565225": {
+        "configID": "22ed39",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1713941963359": {
+        "configID": "22ed39",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1713948195578": {
+        "configID": "22ed39",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1717138759370": {
+        "configID": "22ed39",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1717141197212": {
+        "configID": "22ed39",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1717142808228": {
+        "configID": "22ed39",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1717143007992": {
+        "configID": "22ed39",
+        "services": [],
+        "__version__": "3.0.7"
+      }
+    },
+    "__version__": "1.3.7"
+  },
+  "builder-options": {
+    "configID": "22ed39",
+    "services": [],
+    "__version__": "3.0.7"
+  }
+}

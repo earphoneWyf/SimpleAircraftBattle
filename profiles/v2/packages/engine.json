@@ -1,0 +1,104 @@
+{
+  "__version__": "1.0.8",
+  "builder": {
+    "taskOptionsMap": {
+      "1713786856076": {
+        "cleanupImageCache": "inheritProjectSetting",
+        "__version__": "1.0.8"
+      },
+      "1713856252943": {
+        "cleanupImageCache": "inheritProjectSetting",
+        "__version__": "1.0.8"
+      },
+      "1713856493772": {
+        "cleanupImageCache": "on",
+        "__version__": "1.0.8"
+      },
+      "1713857166049": {
+        "cleanupImageCache": "inheritProjectSetting",
+        "__version__": "1.0.8"
+      },
+      "1713859541959": {
+        "cleanupImageCache": "on",
+        "__version__": "1.0.8"
+      },
+      "1713863740456": {
+        "cleanupImageCache": "on",
+        "__version__": "1.0.8"
+      },
+      "1713874335156": {
+        "cleanupImageCache": "on",
+        "__version__": "1.0.8"
+      },
+      "1713924034449": {
+        "cleanupImageCache": "on",
+        "__version__": "1.0.8"
+      },
+      "1713925140150": {
+        "cleanupImageCache": "on",
+        "__version__": "1.0.8"
+      },
+      "1713925320527": {
+        "cleanupImageCache": "on",
+        "__version__": "1.0.8"
+      },
+      "1713925525287": {
+        "cleanupImageCache": "on",
+        "__version__": "1.0.8"
+      },
+      "1713925792082": {
+        "cleanupImageCache": "on",
+        "__version__": "1.0.8"
+      },
+      "1713925987506": {
+        "cleanupImageCache": "on",
+        "__version__": "1.0.8"
+      },
+      "1713928363793": {
+        "cleanupImageCache": "on",
+        "__version__": "1.0.8"
+      },
+      "1713939194204": {
+        "cleanupImageCache": "on",
+        "__version__": "1.0.8"
+      },
+      "1713940321830": {
+        "cleanupImageCache": "on",
+        "__version__": "1.0.8"
+      },
+      "1713940481022": {
+        "cleanupImageCache": "inheritProjectSetting",
+        "__version__": "1.0.8"
+      },
+      "1713940565225": {
+        "cleanupImageCache": "inheritProjectSetting",
+        "__version__": "1.0.8"
+      },
+      "1713941963359": {
+        "cleanupImageCache": "on",
+        "__version__": "1.0.8"
+      },
+      "1713948195578": {
+        "cleanupImageCache": "on",
+        "__version__": "1.0.8"
+      },
+      "1717138759370": {
+        "cleanupImageCache": "on",
+        "__version__": "1.0.8"
+      },
+      "1717141197212": {
+        "cleanupImageCache": "on",
+        "__version__": "1.0.8"
+      },
+      "1717142808228": {
+        "cleanupImageCache": "on",
+        "__version__": "1.0.8"
+      },
+      "1717143007992": {
+        "cleanupImageCache": "on",
+        "__version__": "1.0.8"
+      }
+    },
+    "__version__": "1.3.7"
+  }
+}

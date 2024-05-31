@@ -1,0 +1,464 @@
+2024-5-31 14:56:58-log: Cannot access game frame or container.
+2024-5-31 14:56:59-debug: asset-db:require-engine-code (1137ms)
+2024-5-31 14:56:59-log: meshopt wasm decoder initialized
+2024-5-31 14:56:59-log: [box2d]:box2d wasm lib loaded.
+2024-5-31 14:56:59-log: [bullet]:bullet wasm lib loaded.
+2024-5-31 14:57:05-log: Cocos Creator v3.8.2
+2024-5-31 14:57:09-debug: [Assets Memory track]: asset-db-plugin-enable: builder start:109.40MB, end 198.51MB, increase: 89.11MB
+2024-5-31 14:57:09-debug: [Assets Memory track]: asset-db-plugin-register: engine-extends start:108.93MB, end 195.33MB, increase: 86.40MB
+2024-5-31 14:57:05-debug: [Assets Memory track]: asset-db-plugin-register: programming start:106.71MB, end 108.88MB, increase: 2.17MB
+2024-5-31 14:57:09-debug: [Assets Memory track]: asset-db-plugin-enable: project start:109.09MB, end 195.34MB, increase: 86.24MB
+2024-5-31 14:57:05-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:17.87MB, end 105.93MB, increase: 88.06MB
+2024-5-31 14:57:09-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:105.93MB, end 195.45MB, increase: 89.52MB
+2024-5-31 14:57:09-debug: run package(fix-device) handler(enable) start
+2024-5-31 14:57:09-debug: run package(placeholder) handler(enable) start
+2024-5-31 14:57:09-debug: run package(placeholder) handler(enable) success!
+2024-5-31 14:57:09-debug: asset-db:worker-init: initPlugin (4401ms)
+2024-5-31 14:57:09-debug: Run asset db hook programming:beforePreStart ...
+2024-5-31 14:57:09-debug: run package(fix-device) handler(enable) success!
+2024-5-31 14:57:09-debug: Run asset db hook engine-extends:beforePreStart ...
+2024-5-31 14:57:09-debug: [Assets Memory track]: asset-db:worker-init start:17.87MB, end 195.54MB, increase: 177.67MB
+2024-5-31 14:57:09-debug: Run asset db hook programming:beforePreStart success!
+2024-5-31 14:57:09-debug: Run asset db hook engine-extends:beforePreStart success!
+2024-5-31 14:57:13-debug: asset-db:worker-init (15141ms)
+2024-5-31 14:57:13-debug: asset-db-hook-programming-beforePreStart (3468ms)
+2024-5-31 14:57:13-debug: asset-db-hook-engine-extends-beforePreStart (3468ms)
+2024-5-31 14:57:13-debug: Preimport db internal success
+2024-5-31 14:57:13-debug: Preimport db assets success
+2024-5-31 14:57:13-debug: Run asset db hook programming:afterPreStart ...
+2024-5-31 14:57:13-debug: starting packer-driver...
+2024-5-31 14:57:13-debug: initialize scripting environment...
+2024-5-31 14:57:13-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-31 14:57:13-debug: Run asset db hook programming:afterPreStart success!
+2024-5-31 14:57:13-debug: Run asset db hook engine-extends:afterPreStart success!
+2024-5-31 14:57:13-debug: [Assets Memory track]: asset-db:worker-init: preStart start:195.54MB, end 211.57MB, increase: 16.02MB
+2024-5-31 14:57:13-debug: Start up the 'internal' database...
+2024-5-31 14:57:13-debug: Run asset db hook engine-extends:afterPreStart ...
+2024-5-31 14:57:14-debug: asset-db-hook-programming-afterPreStart (1282ms)
+2024-5-31 14:57:14-debug: asset-db:worker-effect-data-processing (860ms)
+2024-5-31 14:57:14-debug: asset-db-hook-engine-extends-afterPreStart (860ms)
+2024-5-31 14:57:14-debug: Start up the 'assets' database...
+2024-5-31 14:57:14-debug: asset-db:worker-startup-database[internal] (3816ms)
+2024-5-31 14:57:14-debug: asset-db:worker-startup-database[assets] (1647ms)
+2024-5-31 14:57:14-debug: init worker message success
+2024-5-31 14:57:14-debug: asset-db:ready (18906ms)
+2024-5-31 14:57:14-debug: asset-db:start-database (5128ms)
+2024-5-31 14:57:15-debug: [Build Memory track]: builder:worker-init start:211.15MB, end 222.09MB, increase: 10.94MB
+2024-5-31 14:57:15-debug: programming:execute-script (1ms)
+2024-5-31 14:57:15-debug: builder:worker-init (769ms)
+2024-5-31 14:57:16-debug: programming:execute-script (2ms)
+2024-5-31 14:57:34-debug: refresh db internal success
+2024-5-31 14:57:34-debug: refresh db assets success
+2024-5-31 14:57:34-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-31 14:57:34-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-31 14:57:34-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-31 14:57:34-debug: asset-db:refresh-all-database (87ms)
+2024-5-31 14:57:41-debug: Query all assets info in project
+2024-5-31 14:57:41-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-31 14:57:41-debug:   Number of all scenes: 1
+2024-5-31 14:57:41-debug:   Number of all scripts: 7
+2024-5-31 14:57:41-debug:   Number of other assets: 394
+2024-5-31 14:57:41-debug: 查询 Asset Bundle start, progress: 0%
+2024-5-31 14:57:41-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+2024-5-31 14:57:41-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-31 14:57:41-debug: // ---- build task 查询 Asset Bundle ---- (13ms)
+2024-5-31 14:57:41-debug: 查询 Asset Bundle start, progress: 5%
+2024-5-31 14:57:41-debug: run build task 查询 Asset Bundle success in 13 ms√, progress: 5%
+2024-5-31 14:57:41-debug: [Build Memory track]: 查询 Asset Bundle start:191.42MB, end 191.43MB, increase: 7.75KB
+2024-5-31 14:57:41-debug: [Build Memory track]: 查询 Asset Bundle start:190.81MB, end 191.41MB, increase: 619.64KB
+2024-5-31 14:57:41-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-31 14:57:41-debug: run build task 整理部分构建选项内数据到 settings.json success in 1 ms√, progress: 12%
+2024-5-31 14:57:41-debug: 整理部分构建选项内数据到 settings.json start, progress: 10%
+2024-5-31 14:57:41-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:191.44MB, end 191.45MB, increase: 10.62KB
+2024-5-31 14:57:41-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (1ms)
+2024-5-31 14:57:41-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-31 14:57:41-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
+2024-5-31 14:57:41-debug: 填充脚本数据到 settings.json start, progress: 12%
+2024-5-31 14:57:41-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-31 14:57:41-debug: 整理部分构建选项内数据到 settings.json start, progress: 13%
+2024-5-31 14:57:41-debug: [Build Memory track]: 填充脚本数据到 settings.json start:191.46MB, end 191.47MB, increase: 10.07KB
+2024-5-31 14:57:41-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-31 14:57:41-debug: run build task 查询 Asset Bundle success in √, progress: 10%
+2024-5-31 14:57:41-debug: run build task 填充脚本数据到 settings.json success in 1 ms√, progress: 13%
+2024-5-31 14:57:41-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (23ms)
+2024-5-31 14:57:41-debug: run build task 整理部分构建选项内数据到 settings.json success in 23 ms√, progress: 15%
+2024-5-31 14:57:41-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:191.48MB, end 191.61MB, increase: 135.56KB
+2024-5-31 14:57:59-debug: refresh db internal success
+2024-5-31 14:57:59-debug: refresh db assets success
+2024-5-31 14:57:59-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-31 14:57:59-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-31 14:57:59-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-31 14:57:59-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-31 14:57:59-debug: asset-db:refresh-all-database (104ms)
+2024-5-31 14:58:04-debug: Query all assets info in project
+2024-5-31 14:58:04-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-31 14:58:04-debug:   Number of all scenes: 1
+2024-5-31 14:58:04-debug:   Number of all scripts: 7
+2024-5-31 14:58:04-debug: 查询 Asset Bundle start, progress: 0%
+2024-5-31 14:58:04-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-31 14:58:04-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+2024-5-31 14:58:04-debug: // ---- build task 查询 Asset Bundle ---- (10ms)
+2024-5-31 14:58:04-debug: run build task 查询 Asset Bundle success in 10 ms√, progress: 5%
+2024-5-31 14:58:04-debug: 查询 Asset Bundle start, progress: 5%
+2024-5-31 14:58:04-debug:   Number of other assets: 394
+2024-5-31 14:58:04-debug: [Build Memory track]: 查询 Asset Bundle start:193.27MB, end 194.03MB, increase: 782.89KB
+2024-5-31 14:58:04-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
+2024-5-31 14:58:04-debug: run build task 查询 Asset Bundle success in 1 ms√, progress: 10%
+2024-5-31 14:58:04-debug: [Build Memory track]: 查询 Asset Bundle start:194.04MB, end 194.05MB, increase: 9.95KB
+2024-5-31 14:58:04-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-31 14:58:04-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-31 14:58:04-debug: run build task 整理部分构建选项内数据到 settings.json success in √, progress: 12%
+2024-5-31 14:58:04-debug: 整理部分构建选项内数据到 settings.json start, progress: 10%
+2024-5-31 14:58:04-debug: 填充脚本数据到 settings.json start, progress: 12%
+2024-5-31 14:58:04-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-31 14:58:04-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
+2024-5-31 14:58:04-debug: run build task 填充脚本数据到 settings.json success in 1 ms√, progress: 13%
+2024-5-31 14:58:04-debug: [Build Memory track]: 填充脚本数据到 settings.json start:194.08MB, end 194.09MB, increase: 13.79KB
+2024-5-31 14:58:04-debug: 整理部分构建选项内数据到 settings.json start, progress: 13%
+2024-5-31 14:58:04-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:194.06MB, end 194.07MB, increase: 8.25KB
+2024-5-31 14:58:04-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (2ms)
+2024-5-31 14:58:04-debug: run build task 整理部分构建选项内数据到 settings.json success in 2 ms√, progress: 15%
+2024-5-31 14:58:04-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:194.10MB, end 194.21MB, increase: 112.37KB
+2024-5-31 14:58:04-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-31 14:58:16-debug: refresh db internal success
+2024-5-31 14:58:16-debug: refresh db assets success
+2024-5-31 14:58:16-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-31 14:58:16-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-31 14:58:16-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-31 14:58:16-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-31 14:58:16-debug: asset-db:refresh-all-database (112ms)
+2024-5-31 14:59:06-debug: refresh db internal success
+2024-5-31 14:59:06-debug: refresh db assets success
+2024-5-31 14:59:06-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-31 14:59:06-debug: asset-db:refresh-all-database (274ms)
+2024-5-31 14:59:06-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-31 14:59:19-debug: Build with Cocos Creator 3.8.2
+2024-5-31 14:59:19-debug: =================================== build Task (wechatgame) Start ================================
+2024-5-31 14:59:19-debug: Start record console... {file(/Users/wangyifeng1/AircraftBattle/temp/builder/log/wechatgame5-31-2024 14-59.log)}
+2024-5-31 14:59:19-debug: Start build task, options:{"name":"AircraftBattle","server":"","platform":"wechatgame","buildPath":"project://build","debug":false,"md5Cache":false,"skipCompressTexture":false,"sourceMaps":false,"polyfills":{"asyncFunctions":false},"experimentalEraseModules":false,"startSceneAssetBundle":false,"bundleConfigs":[],"useBuiltinServer":false,"mainBundleIsRemote":false,"mainBundleCompressionType":"merge_dep","useSplashScreen":true,"bundleCommonChunk":false,"packAutoAtlas":true,"startScene":"00d0038f-6501-4aca-9019-e889f5434aa0","outputName":"wechatgame","taskName":"wechatgame","scenes":[{"url":"db://assets/scene.scene","uuid":"00d0038f-6501-4aca-9019-e889f5434aa0"}],"packages":{"engine":{"cleanupImageCache":"on","__version__":"1.0.8"},"cocos-service":{"configID":"22ed39","services":[],"__version__":"3.0.7"},"wechatgame":{"orientation":"portrait","appid":"64c223aa4de537003f25a3fd","buildOpenDataContextTemplate":"","separateEngine":false,"highPerformanceMode":false,"enabelWebGL2":"off","wasm":"wasm","__version__":"1.0.4"}},"__version__":"1.3.7","buildMode":"normal","logDest":"project://temp/builder/log/wechatgame5-31-2024 14-59.log"}
+2024-5-31 14:59:19-debug: cocos-service:(onBeforeBuild) start..., progress: 0%
+2024-5-31 14:59:19-debug: // ---- build task cocos-service：onBeforeBuild ----
+2024-5-31 14:59:19-debug: // ---- build task cocos-service：onBeforeBuild ---- (427ms)
+2024-5-31 14:59:19-debug: // ---- build task scene：onBeforeBuild ----
+2024-5-31 14:59:19-debug: cocos-service:(onBeforeBuild) in 427 ms ✓, progress: 2%
+2024-5-31 14:59:19-debug: scene:(onBeforeBuild) start..., progress: 2%
+2024-5-31 14:59:19-debug: // ---- build task scene：onBeforeBuild ---- (88ms)
+2024-5-31 14:59:19-debug: scene:(onBeforeBuild) in 88 ms ✓, progress: 4%
+2024-5-31 14:59:19-log: Asset DB is paused with build!
+2024-5-31 14:59:19-debug: Start lock asset db..., progress: 4%
+2024-5-31 14:59:19-debug: Query all assets info in project
+2024-5-31 14:59:20-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-31 14:59:20-debug:   Number of all scenes: 1
+2024-5-31 14:59:20-debug:   Number of other assets: 394
+2024-5-31 14:59:20-debug: wechatgame:(onAfterInit) start..., progress: 4%
+2024-5-31 14:59:20-debug: // ---- build task wechatgame：onAfterInit ----
+2024-5-31 14:59:20-debug:   Number of all scripts: 7
+2024-5-31 14:59:20-debug: // ---- build task wechatgame：onAfterInit ---- (42ms)
+2024-5-31 14:59:20-debug: wechatgame:(onAfterInit) in 42 ms ✓, progress: 7%
+2024-5-31 14:59:20-debug: // ---- build task cocos-service：onAfterInit ----
+2024-5-31 14:59:20-debug: cocos-service:(onAfterInit) start..., progress: 7%
+2024-5-31 14:59:20-debug: // ---- build task cocos-service：onAfterInit ---- (377ms)
+2024-5-31 14:59:20-debug: cocos-service:(onAfterInit) in 377 ms ✓, progress: 9%
+2024-5-31 14:59:20-debug: // ---- build task engine：onAfterInit ----
+2024-5-31 14:59:20-debug: engine:(onAfterInit) start..., progress: 9%
+2024-5-31 14:59:20-debug: // ---- build task engine：onAfterInit ---- (110ms)
+2024-5-31 14:59:20-debug: engine:(onAfterInit) in 110 ms ✓, progress: 11%
+2024-5-31 14:59:20-debug: wechatgame:(onBeforeBundleInit) start..., progress: 11%
+2024-5-31 14:59:20-debug: // ---- build task wechatgame：onBeforeBundleInit ----
+2024-5-31 14:59:20-debug: // ---- build task wechatgame：onBeforeBundleInit ---- (102ms)
+2024-5-31 14:59:20-debug: wechatgame:(onBeforeBundleInit) in 102 ms ✓, progress: 11%
+2024-5-31 14:59:20-debug: // ---- build task adsense-h5g-plugin：onBeforeBundleInit ----
+2024-5-31 14:59:20-debug: [adsense-h5g-plugin] remove script success
+2024-5-31 14:59:20-debug: adsense-h5g-plugin:(onBeforeBundleInit) start..., progress: 11%
+2024-5-31 14:59:20-debug: // ---- build task adsense-h5g-plugin：onBeforeBundleInit ---- (113ms)
+2024-5-31 14:59:20-debug: adsense-h5g-plugin:(onBeforeBundleInit) in 113 ms ✓, progress: 11%
+2024-5-31 14:59:20-debug: Init all bundles start..., progress: 11%
+2024-5-31 14:59:20-debug: Num of bundles: 3..., progress: 11%
+2024-5-31 14:59:20-debug: reload all scripts.
+2024-5-31 14:59:20-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-31 14:59:20-debug: /Users/wangyifeng1/AircraftBattle/temp/programming/packer-driver/targets/editor/chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js resolved to /Users/wangyifeng1/AircraftBattle/temp/programming/packer-driver/targets/editor/chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js is not in module cache!
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-empty" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-box2d-wasm" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/sorting" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/xr" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/light-probe" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/sorting" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-box2d-wasm" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-empty" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/light-probe" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/xr" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+2024-5-31 14:59:21-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-31 14:59:21-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+2024-5-31 14:59:20-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
+2024-5-31 14:59:21-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-31 14:59:21-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-31 14:59:21-debug: /Users/wangyifeng1/AircraftBattle/temp/programming/packer-driver/targets/editor/chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to /Users/wangyifeng1/AircraftBattle/temp/programming/packer-driver/targets/editor/chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2024-5-31 14:59:21-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-31 14:59:21-debug: [[Executor]] Module "pack:///chunks/47/47a1530b86f8dba752d13f037cd555503db82c41.js" loaded.
+2024-5-31 14:59:21-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-31 14:59:21-debug: /Users/wangyifeng1/AircraftBattle/temp/programming/packer-driver/targets/editor/chunks/47/47a1530b86f8dba752d13f037cd555503db82c41.js resolved to /Users/wangyifeng1/AircraftBattle/temp/programming/packer-driver/targets/editor/chunks/47/47a1530b86f8dba752d13f037cd555503db82c41.js is not in module cache!
+2024-5-31 14:59:21-debug: /Users/wangyifeng1/AircraftBattle/temp/programming/packer-driver/targets/editor/chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js resolved to /Users/wangyifeng1/AircraftBattle/temp/programming/packer-driver/targets/editor/chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js is not in module cache!
+2024-5-31 14:59:21-debug: /Users/wangyifeng1/AircraftBattle/temp/programming/packer-driver/targets/editor/chunks/c6/c6edd1580601d1dabc570b90b190fc14d44a264e.js resolved to /Users/wangyifeng1/AircraftBattle/temp/programming/packer-driver/targets/editor/chunks/c6/c6edd1580601d1dabc570b90b190fc14d44a264e.js is not in module cache!
+2024-5-31 14:59:21-debug: /Users/wangyifeng1/AircraftBattle/temp/programming/packer-driver/targets/editor/chunks/fd/fd80061ad4be141ec483ee176e53c35041d84473.js resolved to /Users/wangyifeng1/AircraftBattle/temp/programming/packer-driver/targets/editor/chunks/fd/fd80061ad4be141ec483ee176e53c35041d84473.js is not in module cache!
+2024-5-31 14:59:21-debug: /Users/wangyifeng1/AircraftBattle/temp/programming/packer-driver/targets/editor/chunks/96/9640676adc2a59df7710ea588078999c64fcf06f.js resolved to /Users/wangyifeng1/AircraftBattle/temp/programming/packer-driver/targets/editor/chunks/96/9640676adc2a59df7710ea588078999c64fcf06f.js is not in module cache!
+2024-5-31 14:59:21-debug: /Users/wangyifeng1/AircraftBattle/temp/programming/packer-driver/targets/editor/chunks/5b/5bcbafd60626b1d189abaaf2b17ea26fc973449a.js resolved to /Users/wangyifeng1/AircraftBattle/temp/programming/packer-driver/targets/editor/chunks/5b/5bcbafd60626b1d189abaaf2b17ea26fc973449a.js is not in module cache!
+2024-5-31 14:59:21-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-31 14:59:21-debug: [[Executor]] Module "pack:///chunks/5b/5bcbafd60626b1d189abaaf2b17ea26fc973449a.js" loaded.
+2024-5-31 14:59:21-debug: [[Executor]] Register EnemyController
+2024-5-31 14:59:21-debug: [[Executor]] Register GameController
+2024-5-31 14:59:21-debug: [[Executor]] Module "pack:///chunks/96/9640676adc2a59df7710ea588078999c64fcf06f.js" loaded.
+2024-5-31 14:59:21-debug: [[Executor]] Module "pack:///chunks/fd/fd80061ad4be141ec483ee176e53c35041d84473.js" loaded.
+2024-5-31 14:59:21-debug: [[Executor]] Register BgController
+2024-5-31 14:59:21-debug: /Users/wangyifeng1/AircraftBattle/temp/programming/packer-driver/targets/editor/chunks/a5/a5b106bb04981615ce91eb6366f1312f3cbefd34.js resolved to /Users/wangyifeng1/AircraftBattle/temp/programming/packer-driver/targets/editor/chunks/a5/a5b106bb04981615ce91eb6366f1312f3cbefd34.js is not in module cache!
+2024-5-31 14:59:21-debug: [[Executor]] Module "pack:///chunks/c6/c6edd1580601d1dabc570b90b190fc14d44a264e.js" loaded.
+2024-5-31 14:59:21-debug: [[Executor]] Module "pack:///chunks/a5/a5b106bb04981615ce91eb6366f1312f3cbefd34.js" loaded.
+2024-5-31 14:59:21-debug: /Users/wangyifeng1/AircraftBattle/temp/programming/packer-driver/targets/editor/chunks/1d/1d7d749328db2cb13c19d156484659f2824f22e4.js resolved to /Users/wangyifeng1/AircraftBattle/temp/programming/packer-driver/targets/editor/chunks/1d/1d7d749328db2cb13c19d156484659f2824f22e4.js is not in module cache!
+2024-5-31 14:59:21-debug: [[Executor]] Register BulletController
+2024-5-31 14:59:21-debug: [[Executor]] Register PlayerController
+2024-5-31 14:59:21-debug: [[Executor]] Register EnemyManager
+2024-5-31 14:59:21-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-31 14:59:21-debug: 查询 Asset Bundle start, progress: 11%
+2024-5-31 14:59:21-debug: Incremental keys: 
+2024-5-31 14:59:21-debug: Init bundle root assets start..., progress: 11%
+2024-5-31 14:59:21-debug: [[Executor]] Module "pack:///chunks/1d/1d7d749328db2cb13c19d156484659f2824f22e4.js" loaded.
+2024-5-31 14:59:21-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-31 14:59:21-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+2024-5-31 14:59:21-debug: Init bundle root assets success..., progress: 11%
+2024-5-31 14:59:21-debug: Init bundle share assets start..., progress: 11%
+2024-5-31 14:59:21-debug: Init bundle share assets success..., progress: 11%
+2024-5-31 14:59:21-debug: handle json group in bundle internal
+2024-5-31 14:59:21-debug: init image compress task 0 in bundle internal
+2024-5-31 14:59:21-debug: handle json group in bundle internal success
+2024-5-31 14:59:21-debug: handle json group in bundle resources
+2024-5-31 14:59:21-debug: handle json group in bundle main success
+2024-5-31 14:59:21-debug: init image compress task 0 in bundle main
+2024-5-31 14:59:21-debug: handle json group in bundle resources success
+2024-5-31 14:59:21-debug: init image compress task 0 in bundle resources
+2024-5-31 14:59:21-debug: handle json group in bundle main
+2024-5-31 14:59:21-debug: // ---- build task 查询 Asset Bundle ---- (529ms)
+2024-5-31 14:59:21-debug: run build task 查询 Asset Bundle success in 529 ms√, progress: 16%
+2024-5-31 14:59:21-debug: [Build Memory track]: 查询 Asset Bundle start:199.92MB, end 201.55MB, increase: 1.63MB
+2024-5-31 14:59:21-debug: 查询 Asset Bundle start, progress: 16%
+2024-5-31 14:59:21-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-31 14:59:21-debug: // ---- build task 查询 Asset Bundle ---- (98ms)
+2024-5-31 14:59:21-debug: [Build Memory track]: 查询 Asset Bundle start:201.56MB, end 201.67MB, increase: 105.64KB
+2024-5-31 14:59:21-debug: run build task 查询 Asset Bundle success in 98 ms√, progress: 21%
+2024-5-31 14:59:21-debug: 打包脚本 start, progress: 21%
+2024-5-31 14:59:21-debug: // ---- build task 打包脚本 ----
+2024-5-31 14:59:23-debug: Generate systemJs..., progress: 21%
+2024-5-31 14:59:26-debug: 构建项目脚本 start..., progress: 21%
+2024-5-31 14:59:26-debug: Build script in bundle start, progress: 21%
+2024-5-31 14:59:26-log: Run build task(build-script) in child, see: chrome://inspect/#devices
+2024-5-31 14:59:27-log: [build-script]enter sub process 70625, /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Frameworks/CocosCreator Helper (Renderer).app/Contents/MacOS/CocosCreator Helper (Renderer),/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/builder/static/sub-process-index
+2024-5-31 14:59:29-debug: excute-script over with build-script 2332ms
+2024-5-31 14:59:29-debug: Build script in bundle success, progress: 21%
+2024-5-31 14:59:29-debug: Copy externalScripts success!
+2024-5-31 14:59:29-debug: 构建项目脚本 in (2759 ms) √, progress: 21%
+2024-5-31 14:59:29-debug: 构建引擎脚本 start..., progress: 21%
+2024-5-31 14:59:29-debug: Engine cache ({link(/var/folders/qx/2_7r2zdn6nb64800t9837jtr0000gn/T/CocosCreator/3.8.2/builder/engine/47d6bb36dfaecc2ac120409e6f0d04c0)}) does not exist.
+2024-5-31 14:59:29-log: Run build task(build-engine) in child, see: chrome://inspect/#devices
+2024-5-31 14:59:30-log: [build-engine]enter sub process 70634, /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Frameworks/CocosCreator Helper (Renderer).app/Contents/MacOS/CocosCreator Helper (Renderer),/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/builder/static/sub-process-index
+2024-5-31 14:59:30-log: [build-engine]Module source "internal-constants":function tryDefineGlobal (name, value) {    const _global = typeof window === 'undefined' ? global : window;    if (typeof _global[name] === 'undefined') {        return (_global[name] = value);    } else {        // eslint-disable-next-line @typescript-eslint/no-unsafe-return        return _global[name];    }}export const HTML5 = false;export const NATIVE = false;export const ANDROID = false;export const IOS = false;export const MAC = false;export const WINDOWS = false;export const LINUX = false;export const OHOS = false;export const OPEN_HARMONY = false;export const WECHAT = true;tryDefineGlobal('CC_WECHAT', true);export const WECHAT_MINI_PROGRAM = false;export const BAIDU = false;tryDefineGlobal('CC_BAIDU', false);export const XIAOMI = false;tryDefineGlobal('CC_XIAOMI', false);export const ALIPAY = false;tryDefineGlobal('CC_ALIPAY', false);export const TAOBAO = false;export const TAOBAO_MINIGAME = false;export const BYTEDANCE = false;tryDefineGlobal('CC_BYTEDANCE', false);export const OPPO = false;tryDefineGlobal('CC_OPPO', false);export const VIVO = false;tryDefineGlobal('CC_VIVO', false);export const HUAWEI = false;tryDefineGlobal('CC_HUAWEI', false);export const COCOSPLAY = false;tryDefineGlobal('CC_COCOSPLAY', false);export const QTT = false;tryDefineGlobal('CC_QTT', false);export const LINKSURE = false;tryDefineGlobal('CC_LINKSURE', false);export const EDITOR = false;tryDefineGlobal('CC_EDITOR', false);export const EDITOR_NOT_IN_PREVIEW = false;export const PREVIEW = false;tryDefineGlobal('CC_PREVIEW', false);export const BUILD = true;tryDefineGlobal('CC_BUILD', true);export const TEST = false;tryDefineGlobal('CC_TEST', false);export const DEBUG = false;tryDefineGlobal('CC_DEBUG', false);export const SERVER_MODE = false;export const DEV = false;tryDefineGlobal('CC_DEV', false);export const MINIGAME = true;tryDefineGlobal('CC_MINIGAME', true);export const RUNTIME_BASED = false;tryDefineGlobal('CC_RUNTIME_BASED', false);export const SUPPORT_JIT = false;tryDefineGlobal('CC_SUPPORT_JIT', false);export const JSB = false;tryDefineGlobal('CC_JSB', false);export const NOT_PACK_PHYSX_LIBS = false;export const NET_MODE = 0;export const WEBGPU = false;export const WASM_SUPPORT_MODE = 1;export const FORCE_BANNING_BULLET_WASM = true;export const CULL_ASM_JS_MODULE = false;export const WASM_FALLBACK = false;export const WASM_SUBPACKAGE = false;export const CULL_MESHOPT = true;
+2024-5-31 14:59:30-log: [build-engine]Module source "cc":export * from '/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/2d.ts';export * from '/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/sorting.ts';export * from '/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/animation.ts';export * from '/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/audio.ts';export * from '/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/base.ts';export * from '/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/dragon-bones.ts';export * from '/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/gfx-webgl.ts';export * from '/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/intersection-2d.ts';export * from '/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/particle-2d.ts';export * from '/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/physics-2d-box2d.ts';export * from '/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/physics-2d-framework.ts';export * from '/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/profiler.ts';export * from '/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/spine.ts';export * from '/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/tiled-map.ts';export * from '/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/tween.ts';export * from '/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/ui.ts';export * from '/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/video.ts';export * from '/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/webview.ts';
+2024-5-31 14:59:31-log: [build-engine]Redirect module internal:native to /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/native-binding/impl.ts
+2024-5-31 14:59:34-log: [build-engine]Redirect module pal/screen-adapter to /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/screen-adapter/minigame/screen-adapter.ts
+2024-5-31 14:59:35-log: [build-engine]Redirect module pal/system-info to /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/system-info/minigame/system-info.ts
+2024-5-31 14:59:37-log: [build-engine]Redirect module pal/input to /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/input/minigame/index.ts
+2024-5-31 14:59:37-log: [build-engine]Redirect module pal/audio to /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/audio/minigame/player.ts
+2024-5-31 14:59:38-log: [build-engine]Redirect module pal/env to /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/env/minigame/env.ts
+2024-5-31 14:59:38-log: [build-engine]Redirect module pal/pacer to /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/pacer/pacer-minigame.ts
+2024-5-31 14:59:39-log: [build-engine]Redirect module /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/animation/marionette/runtime-exports.ts to /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/animation/marionette/index-empty.ts
+2024-5-31 14:59:40-log: [build-engine]Redirect module pal/minigame to /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/minigame/wechat.ts
+2024-5-31 14:59:40-log: [build-engine]Redirect module /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/2d/renderer/native-2d.ts to /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/2d/renderer/native-2d-empty.ts
+2024-5-31 14:59:42-log: [build-engine]Rollup warning 'THIS_IS_UNDEFINED' is omitted for /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/node_modules/@cocos/dragonbones-js/out/dragonBones.js
+2024-5-31 14:59:42-log: [build-engine]Rollup warning 'THIS_IS_UNDEFINED' is omitted for /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/node_modules/@cocos/dragonbones-js/out/dragonBones.js
+2024-5-31 14:59:45-log: [build-engine]Redirect module pal/wasm to /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/wasm/wasm-minigame.ts
+2024-5-31 14:59:51-log: 资源数据库已锁定，资源操作(refresh)将会延迟响应，请稍侯
+2024-5-31 14:59:52-log: [build-engine]==== Performance ===={"# BUILD":[21177.152291953564,613768676,668718404],"## generate module graph":[19566.473124980927,534172460,589130352],"- plugin 0 (@cocos/ccbuild|external-loader) - resolveId":[282.87220537662506,3569420,589087300],"- plugin 0 (@cocos/ccbuild|external-loader) - resolveId (async)":[1190.371023774147,6067060,589087840],"- plugin 1 (@cocos/ccbuild|module-overrides) - resolveId":[271.93776923418045,852680,589088292],"- plugin 2 (virtual) - resolveId":[276.7393118739128,5482856,589090216],"load modules":[86563.06330507994,3657983620,584647000],"- plugin 0 (@cocos/ccbuild|external-loader) - load":[61.50494694709778,752488,584617144],"- plugin 0 (@cocos/ccbuild|external-loader) - load (async)":[360.95295906066895,11292616,584617632],"- plugin 1 (@cocos/ccbuild|module-overrides) - load":[58.566748321056366,148732,584618076],"- plugin 2 (virtual) - load":[55.75851249694824,92220,584618472],"- plugin 6 (json) - transform":[62.35530835390091,709752,584650716],"- plugin 7 (commonjs) - transform":[311.36186999082565,18705604,584653964],"- plugin 8 (babel) - transform":[141.73923748731613,13539164,584674296],"generate ast":[466.082836329937,31953152,587933736],"analyse ast":[789.0619758367538,83474452,589081348],"- plugin 3 (@cocos/ccbuild|module-query-plugin) - resolveId":[260.87464916706085,7761196,589093348],"- plugin 3 (@cocos/ccbuild|module-query-plugin) - resolveId (async)":[1162.6148791313171,15178588,589093960],"- plugin 4 (ts-paths) - resolveId":[244.93446844816208,536144,589094348],"- plugin 5 (node-resolve) - resolveId":[259.8140162229538,9851876,589095488],"- plugin 5 (node-resolve) - resolveId (async)":[19899.598163843155,-1448477516,589095928],"- plugin 5 (node-resolve) - load":[55.774581134319305,96380,584618876],"- plugin 7 (commonjs) - load":[58.27913248538971,126448,584619320],"- plugin 8 (babel) - load":[228.9331596493721,5041684,584619716],"- plugin 8 (babel) - transform (async)":[11427.402422368526,734790472,587396228],"- plugin 7 (commonjs) - resolveId":[41.66870814561844,134936,589096380],"- plugin 8 (babel) - resolveId":[40.28487479686737,55660,589096784],"- plugin 7 (commonjs) - resolveId (async)":[4498.3410840034485,-12033852,581249580],"- plugin 7 (commonjs) - load (async)":[1959.1134999990463,72358236,489684560],"## sort modules":[141.11445796489716,6248124,595378872],"## mark included statements":[1468.8021250367165,73337544,668716748],"treeshaking pass 1":[726.5870419740677,48274032,644031660],"treeshaking pass 2":[206.9985419511795,16552944,660584936],"treeshaking pass 3":[129.40141701698303,5895960,666481228],"treeshaking pass 4":[79.9308329820633,-658648,665822912],"treeshaking pass 5":[55.10404098033905,3618576,669441820],"treeshaking pass 6":[43.144833981990814,1997516,671439668],"treeshaking pass 7":[38.77216702699661,-1726288,669713712],"treeshaking pass 8":[37.775750041007996,-2634336,667079708],"treeshaking pass 9":[39.01258397102356,-2956844,664123196],"treeshaking pass 10":[36.30183297395706,4430276,668553804],"treeshaking pass 11":[36.473124980926514,-3914432,664639704],"treeshaking pass 12":[35.49633401632309,4076252,668716288]}
+2024-5-31 14:59:52-log: [build-engine]====             ====
+2024-5-31 15:00:04-debug: excute-script over with build-engine 35274ms
+2024-5-31 15:00:05-debug: 构建引擎脚本 in (35963 ms) √, progress: 21%
+2024-5-31 15:00:05-debug: Copy plugin script ..., progress: 21%
+2024-5-31 15:00:05-debug: Generate import-map..., progress: 21%
+2024-5-31 15:00:05-debug: // ---- build task 打包脚本 ---- (43748ms)
+2024-5-31 15:00:05-debug: // ---- build task Build Assets ----
+2024-5-31 15:00:05-debug: [Build Memory track]: 打包脚本 start:201.77MB, end 200.51MB, increase: -1296.16KB
+2024-5-31 15:00:05-debug: run build task 打包脚本 success in 43 s√, progress: 26%
+2024-5-31 15:00:05-debug: Build Assets start, progress: 26%
+2024-5-31 15:00:05-debug: Pack Images start, progress: 26%
+2024-5-31 15:00:05-debug: Build bundles..., progress: 26%
+2024-5-31 15:00:05-debug: builder:pack-auto-atlas-image (383ms)
+2024-5-31 15:00:05-debug: Compress image start..., progress: 26%
+2024-5-31 15:00:05-debug: sort compress task {}
+2024-5-31 15:00:05-debug: Num of all image compress task 0, really: 0, configTasks: 0
+2024-5-31 15:00:05-debug: Compress image success..., progress: 26%
+2024-5-31 15:00:05-debug: handle json group
+2024-5-31 15:00:05-debug: Ouput asset in bundles start, progress: 26%
+2024-5-31 15:00:05-debug: No image need to compress
+2024-5-31 15:00:05-debug: handle json group
+2024-5-31 15:00:05-debug: Pack Images success, progress: 26%
+2024-5-31 15:00:05-debug: Handle all json groups in bundle internal
+2024-5-31 15:00:05-debug: Handle all json groups in bundle resources
+2024-5-31 15:00:05-debug: Handle all json groups in bundle main
+2024-5-31 15:00:05-debug: handle json group
+2024-5-31 15:00:06-debug: handle single json
+2024-5-31 15:00:06-debug: Json group(0770d7650) compile success，json number: 6
+2024-5-31 15:00:06-debug: handle single json
+2024-5-31 15:00:06-debug: Json group(0ca60d3e4) compile success，json number: 6
+2024-5-31 15:00:06-debug: handle single json
+2024-5-31 15:00:06-debug: Output asset in bundles success, progress: 26%
+2024-5-31 15:00:06-debug: // ---- build task Build Assets ---- (879ms)
+2024-5-31 15:00:06-debug: run build task Build Assets success in 879 ms√, progress: 31%
+2024-5-31 15:00:06-debug: wechatgame:(onAfterBundleBuildTask) start..., progress: 31%
+2024-5-31 15:00:06-debug: // ---- build task wechatgame：onAfterBundleBuildTask ----
+2024-5-31 15:00:06-debug: [Build Memory track]: Build Assets start:200.52MB, end 202.37MB, increase: 1.85MB
+2024-5-31 15:00:06-debug: // ---- build task wechatgame：onAfterBundleBuildTask ---- (92ms)
+2024-5-31 15:00:06-debug: // ---- build task wechatgame：onAfterBuildAssets ----
+2024-5-31 15:00:06-debug: wechatgame:(onAfterBundleBuildTask) in 92 ms ✓, progress: 31%
+2024-5-31 15:00:06-debug: wechatgame:(onAfterBuildAssets) start..., progress: 31%
+2024-5-31 15:00:06-debug: // ---- build task wechatgame：onAfterBuildAssets ---- (115ms)
+2024-5-31 15:00:06-debug: wechatgame:(onAfterBuildAssets) in 115 ms ✓, progress: 33%
+2024-5-31 15:00:06-debug: // ---- build task 给所有的资源加上 MD5 后缀 ----
+2024-5-31 15:00:06-debug: 给所有的资源加上 MD5 后缀 start, progress: 33%
+2024-5-31 15:00:06-debug: // ---- build task 给所有的资源加上 MD5 后缀 ---- (185ms)
+2024-5-31 15:00:06-debug: run build task 给所有的资源加上 MD5 后缀 success in 185 ms√, progress: 38%
+2024-5-31 15:00:06-debug: 查询 Asset Bundle start, progress: 38%
+2024-5-31 15:00:06-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-31 15:00:06-debug: Output asset in bundles start, progress: 38%
+2024-5-31 15:00:06-debug: compress config of bundle internal...
+2024-5-31 15:00:06-debug: compress config of bundle internal success
+2024-5-31 15:00:06-debug: compress config of bundle main...
+2024-5-31 15:00:06-debug: compress config of bundle resources...
+2024-5-31 15:00:06-debug: ouput config of bundle internal
+2024-5-31 15:00:06-debug: output config of bundle internal success
+2024-5-31 15:00:06-debug: compress config of bundle resources success
+2024-5-31 15:00:06-debug: ouput config of bundle resources
+2024-5-31 15:00:06-debug: compress config of bundle main success
+2024-5-31 15:00:06-debug: ouput config of bundle main
+2024-5-31 15:00:06-debug: [Build Memory track]: 给所有的资源加上 MD5 后缀 start:200.77MB, end 200.88MB, increase: 102.72KB
+2024-5-31 15:00:06-debug: output config of bundle main success
+2024-5-31 15:00:06-debug: Output asset in bundles success, progress: 38%
+2024-5-31 15:00:06-debug: output config of bundle resources success
+2024-5-31 15:00:07-debug: // ---- build task 查询 Asset Bundle ---- (258ms)
+2024-5-31 15:00:07-debug: run build task 查询 Asset Bundle success in 258 ms√, progress: 43%
+2024-5-31 15:00:07-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-31 15:00:07-debug: 整理部分构建选项内数据到 settings.json start, progress: 43%
+2024-5-31 15:00:07-debug: [Build Memory track]: 查询 Asset Bundle start:200.89MB, end 201.33MB, increase: 454.30KB
+2024-5-31 15:00:07-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (130ms)
+2024-5-31 15:00:07-debug: run build task 整理部分构建选项内数据到 settings.json success in 130 ms√, progress: 45%
+2024-5-31 15:00:07-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-31 15:00:07-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:201.34MB, end 201.44MB, increase: 104.41KB
+2024-5-31 15:00:07-debug: 填充脚本数据到 settings.json start, progress: 45%
+2024-5-31 15:00:07-debug: // ---- build task 填充脚本数据到 settings.json ---- (483ms)
+2024-5-31 15:00:07-debug: 整理部分构建选项内数据到 settings.json start, progress: 47%
+2024-5-31 15:00:07-debug: run build task 填充脚本数据到 settings.json success in 483 ms√, progress: 47%
+2024-5-31 15:00:07-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-31 15:00:07-debug: [Build Memory track]: 填充脚本数据到 settings.json start:201.46MB, end 201.56MB, increase: 108.68KB
+2024-5-31 15:00:08-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (634ms)
+2024-5-31 15:00:08-debug: wechatgame:(onBeforeCompressSettings) start..., progress: 48%
+2024-5-31 15:00:08-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:201.57MB, end 201.78MB, increase: 213.38KB
+2024-5-31 15:00:08-debug: // ---- build task wechatgame：onBeforeCompressSettings ----
+2024-5-31 15:00:08-debug: run build task 整理部分构建选项内数据到 settings.json success in 634 ms√, progress: 48%
+2024-5-31 15:00:10-debug: // ---- build task wechatgame：onBeforeCompressSettings ---- (1745ms)
+2024-5-31 15:00:10-debug: // ---- build task cocos-service：onBeforeCompressSettings ----
+2024-5-31 15:00:10-debug: wechatgame:(onBeforeCompressSettings) in 1745 ms ✓, progress: 51%
+2024-5-31 15:00:10-debug: cocos-service:(onBeforeCompressSettings) start..., progress: 51%
+2024-5-31 15:00:11-debug: // ---- build task cocos-service：onBeforeCompressSettings ---- (1141ms)
+2024-5-31 15:00:11-debug: cocos-service:(onBeforeCompressSettings) in 1141 ms ✓, progress: 53%
+2024-5-31 15:00:11-debug: 保存 settings.json start, progress: 53%
+2024-5-31 15:00:11-debug: // ---- build task 保存 settings.json ----
+2024-5-31 15:00:11-debug: // ---- build task 保存 settings.json ---- (299ms)
+2024-5-31 15:00:11-debug: run build task 保存 settings.json success in 299 ms√, progress: 55%
+2024-5-31 15:00:11-debug: 整理静态模板文件 start, progress: 55%
+2024-5-31 15:00:11-debug: // ---- build task 整理静态模板文件 ----
+2024-5-31 15:00:11-debug: [Build Memory track]: 保存 settings.json start:202.21MB, end 202.37MB, increase: 162.16KB
+2024-5-31 15:00:12-debug: // ---- build task 整理静态模板文件 ---- (451ms)
+2024-5-31 15:00:12-debug: run build task 整理静态模板文件 success in 451 ms√, progress: 58%
+2024-5-31 15:00:12-debug: cocos-service:(onAfterCompressSettings) start..., progress: 58%
+2024-5-31 15:00:12-debug: // ---- build task cocos-service：onAfterCompressSettings ----
+2024-5-31 15:00:12-debug: [Build Memory track]: 整理静态模板文件 start:202.38MB, end 202.82MB, increase: 450.00KB
+2024-5-31 15:00:12-debug: // ---- build task cocos-service：onAfterCompressSettings ---- (438ms)
+2024-5-31 15:00:12-debug: // ---- build task wechatgame：onAfterBuild ----
+2024-5-31 15:00:12-debug: wechatgame:(onAfterBuild) start..., progress: 60%
+2024-5-31 15:00:12-debug: cocos-service:(onAfterCompressSettings) in 438 ms ✓, progress: 60%
+2024-5-31 15:00:13-debug: // ---- build task wechatgame：onAfterBuild ---- (602ms)
+2024-5-31 15:00:13-debug: wechatgame:(onAfterBuild) in 602 ms ✓, progress: 62%
+2024-5-31 15:00:13-debug: cocos-service:(onAfterBuild) start..., progress: 62%
+2024-5-31 15:00:13-debug: // ---- build task cocos-service：onAfterBuild ----
+2024-5-31 15:00:13-debug: // ---- build task cocos-service：onAfterBuild ---- (512ms)
+2024-5-31 15:00:13-debug: cocos-service:(onAfterBuild) in 512 ms ✓, progress: 64%
+2024-5-31 15:00:13-debug: // ---- build task adsense-h5g-plugin：onAfterBuild ----
+2024-5-31 15:00:13-debug: adsense-h5g-plugin:(onAfterBuild) start..., progress: 64%
+2024-5-31 15:00:13-debug: // ---- build task adsense-h5g-plugin：onAfterBuild ---- (169ms)
+2024-5-31 15:00:13-debug: adsense-h5g-plugin:(onAfterBuild) in 169 ms ✓, progress: 67%
+2024-5-31 15:00:13-log: Asset DB is resume!
+2024-5-31 15:00:13-debug: refresh db internal success
+2024-5-31 15:00:13-debug: refresh db assets success
+2024-5-31 15:00:13-debug: builder:build-project-total (54477ms)
+2024-5-31 15:00:13-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-31 15:00:13-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-31 15:00:13-debug: asset-db:refresh-all-database (164ms)
+2024-5-31 15:00:13-debug: asset-db-hook-engine-extends-afterRefresh (7ms)
+2024-5-31 15:00:13-debug: build success in 54477!
+2024-5-31 15:00:13-debug: [Build Memory track]: builder:build-project-total start:198.17MB, end 203.96MB, increase: 5.79MB
+2024-5-31 15:00:13-debug: asset-db:worker-effect-data-processing (7ms)
+2024-5-31 15:00:13-debug: ================================ build Task (wechatgame) Finished in (54 s)ms ================================
+2024-5-31 15:00:13-debug: Stop record console. {file(/Users/wangyifeng1/AircraftBattle/temp/builder/log/wechatgame5-31-2024 14-59.log)}
+2024-5-31 15:03:02-debug: refresh db internal success
+2024-5-31 15:03:02-debug: refresh db assets success
+2024-5-31 15:03:02-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-31 15:03:02-debug: asset-db:refresh-all-database (132ms)
+2024-5-31 15:03:02-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-31 15:03:11-debug: refresh db internal success
+2024-5-31 15:03:11-debug: refresh db assets success
+2024-5-31 15:03:11-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-31 15:03:11-debug: asset-db:refresh-all-database (121ms)
+2024-5-31 15:03:11-debug: Run asset db hook engine-extends:afterRefresh success!

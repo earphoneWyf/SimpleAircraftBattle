@@ -1,0 +1,712 @@
+{
+  "f92e6d46-ca22-45ea-92a9-11c53c7d7fc7": {
+    "url": "db://assets/resources",
+    "value": {},
+    "versionCode": 0
+  },
+  "5f3ca119-aa9c-44dc-b2f1-7552c5a8b310": {
+    "url": "db://assets/resources/airplane",
+    "value": {},
+    "versionCode": 0
+  },
+  "f525cc7b-0131-4b1c-b94a-813a8ea31a15": {
+    "url": "db://assets/resources/background",
+    "value": {},
+    "versionCode": 0
+  },
+  "c0824fb1-3e56-428e-a277-8bf45cee3f4e": {
+    "url": "db://assets/resources/bullet",
+    "value": {},
+    "versionCode": 0
+  },
+  "9b5b0a38-2e53-4e03-9423-1b35ef2eb4ad": {
+    "url": "db://assets/resources/hero",
+    "value": {},
+    "versionCode": 0
+  },
+  "76f88eb6-4674-4c04-bdb5-1cc87c44e01a": {
+    "url": "db://assets/resources/background/background.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "76f88eb6-4674-4c04-bdb5-1cc87c44e01a@6c48a": {
+    "url": "db://assets/resources/background/background.png@6c48a",
+    "value": {
+      "depends": [
+        "76f88eb6-4674-4c04-bdb5-1cc87c44e01a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "76f88eb6-4674-4c04-bdb5-1cc87c44e01a@f9941": {
+    "url": "db://assets/resources/background/background.png@f9941",
+    "value": {
+      "depends": [
+        "76f88eb6-4674-4c04-bdb5-1cc87c44e01a@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "20e5c305-4cbd-4d6d-a52b-7ccf176fef38": {
+    "url": "db://assets/resources/hero/hero0.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "20e5c305-4cbd-4d6d-a52b-7ccf176fef38@6c48a": {
+    "url": "db://assets/resources/hero/hero0.png@6c48a",
+    "value": {
+      "depends": [
+        "20e5c305-4cbd-4d6d-a52b-7ccf176fef38"
+      ]
+    },
+    "versionCode": 0
+  },
+  "20e5c305-4cbd-4d6d-a52b-7ccf176fef38@f9941": {
+    "url": "db://assets/resources/hero/hero0.png@f9941",
+    "value": {
+      "depends": [
+        "20e5c305-4cbd-4d6d-a52b-7ccf176fef38@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "5ca55f4a-ffcd-4114-a4d8-ee3aa42b64db": {
+    "url": "db://assets/resources/hero/hero1.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "5ca55f4a-ffcd-4114-a4d8-ee3aa42b64db@6c48a": {
+    "url": "db://assets/resources/hero/hero1.png@6c48a",
+    "value": {
+      "depends": [
+        "5ca55f4a-ffcd-4114-a4d8-ee3aa42b64db"
+      ]
+    },
+    "versionCode": 0
+  },
+  "5ca55f4a-ffcd-4114-a4d8-ee3aa42b64db@f9941": {
+    "url": "db://assets/resources/hero/hero1.png@f9941",
+    "value": {
+      "depends": [
+        "5ca55f4a-ffcd-4114-a4d8-ee3aa42b64db@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "264326aa-704c-4de4-bf33-a626163f7944": {
+    "url": "db://assets/resources/airplane/airplane.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "264326aa-704c-4de4-bf33-a626163f7944@6c48a": {
+    "url": "db://assets/resources/airplane/airplane.png@6c48a",
+    "value": {
+      "depends": [
+        "264326aa-704c-4de4-bf33-a626163f7944"
+      ]
+    },
+    "versionCode": 0
+  },
+  "264326aa-704c-4de4-bf33-a626163f7944@f9941": {
+    "url": "db://assets/resources/airplane/airplane.png@f9941",
+    "value": {
+      "depends": [
+        "264326aa-704c-4de4-bf33-a626163f7944@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "98a05e64-f3c4-4810-9c2f-d0780af519ba": {
+    "url": "db://assets/resources/airplane/enemy-death/airplane1.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "98a05e64-f3c4-4810-9c2f-d0780af519ba@6c48a": {
+    "url": "db://assets/resources/airplane/enemy-death/airplane1.png@6c48a",
+    "value": {
+      "depends": [
+        "98a05e64-f3c4-4810-9c2f-d0780af519ba"
+      ]
+    },
+    "versionCode": 0
+  },
+  "98a05e64-f3c4-4810-9c2f-d0780af519ba@f9941": {
+    "url": "db://assets/resources/airplane/enemy-death/airplane1.png@f9941",
+    "value": {
+      "depends": [
+        "98a05e64-f3c4-4810-9c2f-d0780af519ba@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "c06f2a22-4482-460c-ae9f-91dad301f939": {
+    "url": "db://assets/resources/airplane/enemy-death/airplane3.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "c06f2a22-4482-460c-ae9f-91dad301f939@6c48a": {
+    "url": "db://assets/resources/airplane/enemy-death/airplane3.png@6c48a",
+    "value": {
+      "depends": [
+        "c06f2a22-4482-460c-ae9f-91dad301f939"
+      ]
+    },
+    "versionCode": 0
+  },
+  "c06f2a22-4482-460c-ae9f-91dad301f939@f9941": {
+    "url": "db://assets/resources/airplane/enemy-death/airplane3.png@f9941",
+    "value": {
+      "depends": [
+        "c06f2a22-4482-460c-ae9f-91dad301f939@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "e4975f80-9638-4a19-acd8-7c785b52c4dc": {
+    "url": "db://assets/resources/airplane/enemy-death/airplane2.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "e4975f80-9638-4a19-acd8-7c785b52c4dc@6c48a": {
+    "url": "db://assets/resources/airplane/enemy-death/airplane2.png@6c48a",
+    "value": {
+      "depends": [
+        "e4975f80-9638-4a19-acd8-7c785b52c4dc"
+      ]
+    },
+    "versionCode": 0
+  },
+  "e4975f80-9638-4a19-acd8-7c785b52c4dc@f9941": {
+    "url": "db://assets/resources/airplane/enemy-death/airplane2.png@f9941",
+    "value": {
+      "depends": [
+        "e4975f80-9638-4a19-acd8-7c785b52c4dc@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "a8356c04-8553-4051-90a3-22d7c2ec28c9": {
+    "url": "db://assets/resources/airplane/enemy-death/airplane4.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "a8356c04-8553-4051-90a3-22d7c2ec28c9@6c48a": {
+    "url": "db://assets/resources/airplane/enemy-death/airplane4.png@6c48a",
+    "value": {
+      "depends": [
+        "a8356c04-8553-4051-90a3-22d7c2ec28c9"
+      ]
+    },
+    "versionCode": 0
+  },
+  "a8356c04-8553-4051-90a3-22d7c2ec28c9@f9941": {
+    "url": "db://assets/resources/airplane/enemy-death/airplane4.png@f9941",
+    "value": {
+      "depends": [
+        "a8356c04-8553-4051-90a3-22d7c2ec28c9@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "be613269-2a43-4f61-a5ee-0ba5b72057ce": {
+    "url": "db://assets/resources/bee",
+    "value": {},
+    "versionCode": 0
+  },
+  "a9e0ba85-16c7-43df-bb41-6eb5162192f0": {
+    "url": "db://assets/resources/bee/bee0.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "a9e0ba85-16c7-43df-bb41-6eb5162192f0@6c48a": {
+    "url": "db://assets/resources/bee/bee0.png@6c48a",
+    "value": {
+      "depends": [
+        "a9e0ba85-16c7-43df-bb41-6eb5162192f0"
+      ]
+    },
+    "versionCode": 0
+  },
+  "a9e0ba85-16c7-43df-bb41-6eb5162192f0@f9941": {
+    "url": "db://assets/resources/bee/bee0.png@f9941",
+    "value": {
+      "depends": [
+        "a9e0ba85-16c7-43df-bb41-6eb5162192f0@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "6067fec9-d82a-4bb7-918f-7185eaf9e21f": {
+    "url": "db://assets/resources/bee/bee1.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "6067fec9-d82a-4bb7-918f-7185eaf9e21f@6c48a": {
+    "url": "db://assets/resources/bee/bee1.png@6c48a",
+    "value": {
+      "depends": [
+        "6067fec9-d82a-4bb7-918f-7185eaf9e21f"
+      ]
+    },
+    "versionCode": 0
+  },
+  "6067fec9-d82a-4bb7-918f-7185eaf9e21f@f9941": {
+    "url": "db://assets/resources/bee/bee1.png@f9941",
+    "value": {
+      "depends": [
+        "6067fec9-d82a-4bb7-918f-7185eaf9e21f@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "270ec70b-13a0-4aa4-a293-c3296b867073": {
+    "url": "db://assets/resources/bee/bee2.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "270ec70b-13a0-4aa4-a293-c3296b867073@6c48a": {
+    "url": "db://assets/resources/bee/bee2.png@6c48a",
+    "value": {
+      "depends": [
+        "270ec70b-13a0-4aa4-a293-c3296b867073"
+      ]
+    },
+    "versionCode": 0
+  },
+  "270ec70b-13a0-4aa4-a293-c3296b867073@f9941": {
+    "url": "db://assets/resources/bee/bee2.png@f9941",
+    "value": {
+      "depends": [
+        "270ec70b-13a0-4aa4-a293-c3296b867073@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "b0b0afbb-1d37-4bdf-b71b-338e56d0c3a8": {
+    "url": "db://assets/resources/bee/bee3.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "b0b0afbb-1d37-4bdf-b71b-338e56d0c3a8@6c48a": {
+    "url": "db://assets/resources/bee/bee3.png@6c48a",
+    "value": {
+      "depends": [
+        "b0b0afbb-1d37-4bdf-b71b-338e56d0c3a8"
+      ]
+    },
+    "versionCode": 0
+  },
+  "b0b0afbb-1d37-4bdf-b71b-338e56d0c3a8@f9941": {
+    "url": "db://assets/resources/bee/bee3.png@f9941",
+    "value": {
+      "depends": [
+        "b0b0afbb-1d37-4bdf-b71b-338e56d0c3a8@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "33fc8cb2-6cc3-4325-9956-a18b03074f51": {
+    "url": "db://assets/resources/bee/bee4.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "33fc8cb2-6cc3-4325-9956-a18b03074f51@6c48a": {
+    "url": "db://assets/resources/bee/bee4.png@6c48a",
+    "value": {
+      "depends": [
+        "33fc8cb2-6cc3-4325-9956-a18b03074f51"
+      ]
+    },
+    "versionCode": 0
+  },
+  "33fc8cb2-6cc3-4325-9956-a18b03074f51@f9941": {
+    "url": "db://assets/resources/bee/bee4.png@f9941",
+    "value": {
+      "depends": [
+        "33fc8cb2-6cc3-4325-9956-a18b03074f51@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "b13f72ef-409b-4d71-b08f-a01aeb095a5a": {
+    "url": "db://assets/resources/bigplane",
+    "value": {},
+    "versionCode": 0
+  },
+  "383af469-e3a5-41c6-a813-2d828d9e509a": {
+    "url": "db://assets/resources/bigplane/bigplane0.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "383af469-e3a5-41c6-a813-2d828d9e509a@6c48a": {
+    "url": "db://assets/resources/bigplane/bigplane0.png@6c48a",
+    "value": {
+      "depends": [
+        "383af469-e3a5-41c6-a813-2d828d9e509a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "383af469-e3a5-41c6-a813-2d828d9e509a@f9941": {
+    "url": "db://assets/resources/bigplane/bigplane0.png@f9941",
+    "value": {
+      "depends": [
+        "383af469-e3a5-41c6-a813-2d828d9e509a@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "90ac5278-10d3-4ca8-ac04-eec8e9ac5efb": {
+    "url": "db://assets/resources/bigplane/bigplane4.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "90ac5278-10d3-4ca8-ac04-eec8e9ac5efb@6c48a": {
+    "url": "db://assets/resources/bigplane/bigplane4.png@6c48a",
+    "value": {
+      "depends": [
+        "90ac5278-10d3-4ca8-ac04-eec8e9ac5efb"
+      ]
+    },
+    "versionCode": 0
+  },
+  "90ac5278-10d3-4ca8-ac04-eec8e9ac5efb@f9941": {
+    "url": "db://assets/resources/bigplane/bigplane4.png@f9941",
+    "value": {
+      "depends": [
+        "90ac5278-10d3-4ca8-ac04-eec8e9ac5efb@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "a5faedeb-8cb8-4705-b914-ce8be368e391": {
+    "url": "db://assets/resources/bigplane/bigplane1.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "a5faedeb-8cb8-4705-b914-ce8be368e391@6c48a": {
+    "url": "db://assets/resources/bigplane/bigplane1.png@6c48a",
+    "value": {
+      "depends": [
+        "a5faedeb-8cb8-4705-b914-ce8be368e391"
+      ]
+    },
+    "versionCode": 0
+  },
+  "a5faedeb-8cb8-4705-b914-ce8be368e391@f9941": {
+    "url": "db://assets/resources/bigplane/bigplane1.png@f9941",
+    "value": {
+      "depends": [
+        "a5faedeb-8cb8-4705-b914-ce8be368e391@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "71e81bad-7525-4bbb-9ebe-2b70f38329c8": {
+    "url": "db://assets/resources/bigplane/bigplane3.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "71e81bad-7525-4bbb-9ebe-2b70f38329c8@6c48a": {
+    "url": "db://assets/resources/bigplane/bigplane3.png@6c48a",
+    "value": {
+      "depends": [
+        "71e81bad-7525-4bbb-9ebe-2b70f38329c8"
+      ]
+    },
+    "versionCode": 0
+  },
+  "71e81bad-7525-4bbb-9ebe-2b70f38329c8@f9941": {
+    "url": "db://assets/resources/bigplane/bigplane3.png@f9941",
+    "value": {
+      "depends": [
+        "71e81bad-7525-4bbb-9ebe-2b70f38329c8@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "55c1d3fd-befa-4d89-8baf-3511e8a5792a": {
+    "url": "db://assets/resources/bigplane/bigplane2.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "55c1d3fd-befa-4d89-8baf-3511e8a5792a@6c48a": {
+    "url": "db://assets/resources/bigplane/bigplane2.png@6c48a",
+    "value": {
+      "depends": [
+        "55c1d3fd-befa-4d89-8baf-3511e8a5792a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "55c1d3fd-befa-4d89-8baf-3511e8a5792a@f9941": {
+    "url": "db://assets/resources/bigplane/bigplane2.png@f9941",
+    "value": {
+      "depends": [
+        "55c1d3fd-befa-4d89-8baf-3511e8a5792a@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d511253c-39c3-4acf-920d-ad22c1a66574": {
+    "url": "db://assets/resources/bullet/bullet.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "d511253c-39c3-4acf-920d-ad22c1a66574@6c48a": {
+    "url": "db://assets/resources/bullet/bullet.png@6c48a",
+    "value": {
+      "depends": [
+        "d511253c-39c3-4acf-920d-ad22c1a66574"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d511253c-39c3-4acf-920d-ad22c1a66574@f9941": {
+    "url": "db://assets/resources/bullet/bullet.png@f9941",
+    "value": {
+      "depends": [
+        "d511253c-39c3-4acf-920d-ad22c1a66574@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "4c7e5304-72c3-4068-9e50-79c0c1a6a1e8": {
+    "url": "db://assets/resources/gamestate",
+    "value": {},
+    "versionCode": 0
+  },
+  "b6459fe3-89c0-45a1-96dd-e4b85e851108": {
+    "url": "db://assets/resources/gamestate/pause.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "b6459fe3-89c0-45a1-96dd-e4b85e851108@6c48a": {
+    "url": "db://assets/resources/gamestate/pause.png@6c48a",
+    "value": {
+      "depends": [
+        "b6459fe3-89c0-45a1-96dd-e4b85e851108"
+      ]
+    },
+    "versionCode": 0
+  },
+  "b6459fe3-89c0-45a1-96dd-e4b85e851108@f9941": {
+    "url": "db://assets/resources/gamestate/pause.png@f9941",
+    "value": {
+      "depends": [
+        "b6459fe3-89c0-45a1-96dd-e4b85e851108@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8df8cbde-3c51-4256-b7e0-2e7ef9f45007": {
+    "url": "db://assets/resources/gamestate/start.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "8df8cbde-3c51-4256-b7e0-2e7ef9f45007@6c48a": {
+    "url": "db://assets/resources/gamestate/start.png@6c48a",
+    "value": {
+      "depends": [
+        "8df8cbde-3c51-4256-b7e0-2e7ef9f45007"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8df8cbde-3c51-4256-b7e0-2e7ef9f45007@f9941": {
+    "url": "db://assets/resources/gamestate/start.png@f9941",
+    "value": {
+      "depends": [
+        "8df8cbde-3c51-4256-b7e0-2e7ef9f45007@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "4e12c0cf-9edd-4331-940f-479685f23a3e": {
+    "url": "db://assets/resources/gamestate/gameover.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "4e12c0cf-9edd-4331-940f-479685f23a3e@6c48a": {
+    "url": "db://assets/resources/gamestate/gameover.png@6c48a",
+    "value": {
+      "depends": [
+        "4e12c0cf-9edd-4331-940f-479685f23a3e"
+      ]
+    },
+    "versionCode": 0
+  },
+  "4e12c0cf-9edd-4331-940f-479685f23a3e@f9941": {
+    "url": "db://assets/resources/gamestate/gameover.png@f9941",
+    "value": {
+      "depends": [
+        "4e12c0cf-9edd-4331-940f-479685f23a3e@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "5d3991e8-361d-4ebb-91b9-705d3809befb": {
+    "url": "db://assets/script",
+    "value": {},
+    "versionCode": 0
+  },
+  "f0da5650-ab32-446d-ad9f-791320d6e1b9": {
+    "url": "db://assets/script/BgController.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "599b5ba2-ce6e-42eb-8120-258e79fcd872": {
+    "url": "db://assets/script/PlayerController.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "fffe3f4b-0b0c-4405-ae68-67dc17f3079f": {
+    "url": "db://assets/script/BulletController.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "6b15e62f-07bc-4d59-9f68-1402d377b8ca": {
+    "url": "db://assets/prefab",
+    "value": {},
+    "versionCode": 0
+  },
+  "ac44742c-80b5-45e4-9503-2d8124d7a637": {
+    "url": "db://assets/prefab/bullet.prefab",
+    "value": {
+      "depends": [
+        "d511253c-39c3-4acf-920d-ad22c1a66574@f9941"
+      ],
+      "dependScripts": [
+        "fffe3f4b-0b0c-4405-ae68-67dc17f3079f"
+      ]
+    },
+    "versionCode": 0
+  },
+  "00d0038f-6501-4aca-9019-e889f5434aa0": {
+    "url": "db://assets/scene.scene",
+    "value": {
+      "depends": [
+        "00d0038f-6501-4aca-9019-e889f5434aa0",
+        "76f88eb6-4674-4c04-bdb5-1cc87c44e01a@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "8df8cbde-3c51-4256-b7e0-2e7ef9f45007@f9941",
+        "4e12c0cf-9edd-4331-940f-479685f23a3e@f9941",
+        "b6459fe3-89c0-45a1-96dd-e4b85e851108@f9941",
+        "20e5c305-4cbd-4d6d-a52b-7ccf176fef38@f9941",
+        "ac44742c-80b5-45e4-9503-2d8124d7a637",
+        "2818b5f8-a2e8-409e-9756-c2cc9618652c",
+        "c77ecaa8-c936-46c4-a5b0-98692673ed87"
+      ],
+      "dependScripts": [
+        "f0da5650-ab32-446d-ad9f-791320d6e1b9",
+        "1abd3e38-e432-4856-9253-8d58aa13ea42",
+        "599b5ba2-ce6e-42eb-8120-258e79fcd872",
+        "e5def689-5c2d-4859-8166-94a72d72556d"
+      ]
+    },
+    "versionCode": 0
+  },
+  "8331fb42-a366-4d05-8b69-75a01252183f": {
+    "url": "db://assets/script/EnemyController.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "2818b5f8-a2e8-409e-9756-c2cc9618652c": {
+    "url": "db://assets/prefab/airplane.prefab",
+    "value": {
+      "depends": [
+        "264326aa-704c-4de4-bf33-a626163f7944@f9941"
+      ],
+      "dependScripts": [
+        "8331fb42-a366-4d05-8b69-75a01252183f"
+      ]
+    },
+    "versionCode": 0
+  },
+  "e5def689-5c2d-4859-8166-94a72d72556d": {
+    "url": "db://assets/script/EnemyManager.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "d597b762-7938-439a-919f-08a0f3226d92": {
+    "url": "db://assets/resources/airplane/enemy-death",
+    "value": {},
+    "versionCode": 0
+  },
+  "1abd3e38-e432-4856-9253-8d58aa13ea42": {
+    "url": "db://assets/script/GameController.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "3f6b43d4-9597-484c-b211-03c61b854301": {
+    "url": "db://assets/prefab/hero.prefab",
+    "value": {
+      "depends": [
+        "20e5c305-4cbd-4d6d-a52b-7ccf176fef38@f9941",
+        "ac44742c-80b5-45e4-9503-2d8124d7a637"
+      ],
+      "dependScripts": [
+        "599b5ba2-ce6e-42eb-8120-258e79fcd872"
+      ]
+    },
+    "versionCode": 0
+  },
+  "05bf4974-a0a0-48ed-ba97-b189d9c1a1d1": {
+    "url": "db://assets/prefab/BackBtn.prefab",
+    "value": {
+      "depends": [
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 0
+  }
+}

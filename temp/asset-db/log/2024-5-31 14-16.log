@@ -1,0 +1,67 @@
+2024-5-31 14:16:19-log: Cannot access game frame or container.
+2024-5-31 14:16:19-debug: asset-db:require-engine-code (786ms)
+2024-5-31 14:16:19-log: meshopt wasm decoder initialized
+2024-5-31 14:16:19-log: [box2d]:box2d wasm lib loaded.
+2024-5-31 14:16:20-log: [bullet]:bullet wasm lib loaded.
+2024-5-31 14:16:20-log: Cocos Creator v3.8.2
+2024-5-31 14:16:31-debug: [Assets Memory track]: asset-db-plugin-enable: builder start:108.98MB, end 197.11MB, increase: 88.13MB
+2024-5-31 14:16:31-debug: [Assets Memory track]: asset-db-plugin-enable: project start:108.66MB, end 199.90MB, increase: 91.23MB
+2024-5-31 14:16:31-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:106.28MB, end 200.01MB, increase: 93.73MB
+2024-5-31 14:16:31-debug: [Assets Memory track]: asset-db-plugin-register: engine-extends start:108.54MB, end 199.89MB, increase: 91.34MB
+2024-5-31 14:16:21-debug: [Assets Memory track]: asset-db-plugin-register: programming start:106.95MB, end 108.49MB, increase: 1.54MB
+2024-5-31 14:16:20-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:18.21MB, end 106.27MB, increase: 88.06MB
+2024-5-31 14:16:31-debug: run package(wechatgame) handler(enable) start
+2024-5-31 14:16:31-debug: run package(wechatprogram) handler(enable) start
+2024-5-31 14:16:31-debug: run package(wechatgame) handler(enable) success!
+2024-5-31 14:16:31-debug: run package(windows) handler(enable) success!
+2024-5-31 14:16:31-debug: run package(xiaomi-quick-game) handler(enable) start
+2024-5-31 14:16:31-debug: run package(wechatprogram) handler(enable) success!
+2024-5-31 14:16:31-debug: run package(xiaomi-quick-game) handler(enable) success!
+2024-5-31 14:16:31-debug: run package(cocos-service) handler(enable) start
+2024-5-31 14:16:31-debug: run package(im-plugin) handler(enable) start
+2024-5-31 14:16:31-debug: run package(placeholder) handler(enable) start
+2024-5-31 14:16:31-debug: run package(fix-device) handler(enable) start
+2024-5-31 14:16:31-debug: run package(cocos-service) handler(enable) success!
+2024-5-31 14:16:31-debug: run package(im-plugin) handler(enable) success!
+2024-5-31 14:16:31-debug: run package(windows) handler(enable) start
+2024-5-31 14:16:31-debug: run package(fix-device) handler(enable) success!
+2024-5-31 14:16:31-debug: Run asset db hook programming:beforePreStart success!
+2024-5-31 14:16:31-debug: asset-db:worker-init: initPlugin (10690ms)
+2024-5-31 14:16:31-debug: Run asset db hook programming:beforePreStart ...
+2024-5-31 14:16:31-debug: Run asset db hook engine-extends:beforePreStart ...
+2024-5-31 14:16:31-debug: run package(placeholder) handler(enable) success!
+2024-5-31 14:16:31-debug: Run asset db hook engine-extends:beforePreStart success!
+2024-5-31 14:16:31-debug: [Assets Memory track]: asset-db:worker-init start:18.21MB, end 195.94MB, increase: 177.74MB
+2024-5-31 14:16:37-debug: asset-db:worker-init (18840ms)
+2024-5-31 14:16:37-debug: asset-db-hook-programming-beforePreStart (6017ms)
+2024-5-31 14:16:37-debug: asset-db-hook-engine-extends-beforePreStart (6017ms)
+2024-5-31 14:16:37-debug: Preimport db internal success
+2024-5-31 14:16:37-debug: Preimport db assets success
+2024-5-31 14:16:37-debug: Run asset db hook programming:afterPreStart ...
+2024-5-31 14:16:37-debug: starting packer-driver...
+2024-5-31 14:16:38-debug: initialize scripting environment...
+2024-5-31 14:16:38-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-31 14:16:38-debug: Run asset db hook programming:afterPreStart success!
+2024-5-31 14:16:38-debug: Run asset db hook engine-extends:afterPreStart success!
+2024-5-31 14:16:38-debug: [Assets Memory track]: asset-db:worker-init: preStart start:195.95MB, end 212.56MB, increase: 16.61MB
+2024-5-31 14:16:38-debug: Start up the 'internal' database...
+2024-5-31 14:16:38-debug: Run asset db hook engine-extends:afterPreStart ...
+2024-5-31 14:16:39-debug: asset-db-hook-programming-afterPreStart (1744ms)
+2024-5-31 14:16:39-debug: asset-db:worker-effect-data-processing (1378ms)
+2024-5-31 14:16:39-debug: asset-db-hook-engine-extends-afterPreStart (1378ms)
+2024-5-31 14:16:39-debug: Start up the 'assets' database...
+2024-5-31 14:16:40-debug: asset-db:worker-startup-database[internal] (7485ms)
+2024-5-31 14:16:40-debug: asset-db:worker-startup-database[assets] (2661ms)
+2024-5-31 14:16:40-debug: init worker message success
+2024-5-31 14:16:40-debug: asset-db:ready (23592ms)
+2024-5-31 14:16:40-debug: asset-db:start-database (8686ms)
+2024-5-31 14:16:42-debug: [Build Memory track]: builder:worker-init start:184.11MB, end 199.19MB, increase: 15.08MB
+2024-5-31 14:16:42-debug: builder:worker-init (2369ms)
+2024-5-31 14:16:43-debug: programming:execute-script (3ms)
+2024-5-31 14:18:53-debug: refresh db internal success
+2024-5-31 14:18:53-debug: refresh db assets success
+2024-5-31 14:18:53-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-31 14:18:53-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-31 14:18:53-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-31 14:18:53-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-31 14:18:53-debug: asset-db:refresh-all-database (76ms)

@@ -1,0 +1,262 @@
+2024-4-24 14:36:05 - debug: =================================== build Task (android) Start ================================
+2024-4-24 14:36:05 - debug: Start build task, options:{"name":"AircraftBattle","server":"","platform":"android","buildPath":"project://build","debug":false,"md5Cache":false,"skipCompressTexture":false,"sourceMaps":false,"polyfills":{"asyncFunctions":false},"experimentalEraseModules":false,"startSceneAssetBundle":false,"bundleConfigs":[],"useBuiltinServer":false,"mainBundleIsRemote":false,"mainBundleCompressionType":"merge_dep","useSplashScreen":true,"bundleCommonChunk":false,"packAutoAtlas":true,"startScene":"00d0038f-6501-4aca-9019-e889f5434aa0","outputName":"android","taskName":"android","scenes":[{"url":"db://assets/scene.scene","uuid":"00d0038f-6501-4aca-9019-e889f5434aa0"}],"packages":{"engine":{"cleanupImageCache":"inheritProjectSetting","__version__":"1.0.8"},"android":{"packageName":"com.android.airplaneBattle","resizeableActivity":true,"maxAspectRatio":"2.4","orientation":{"portrait":true,"upsideDown":false,"landscapeRight":false,"landscapeLeft":false},"apiLevel":28,"appABIs":["arm64-v8a"],"useDebugKeystore":true,"keystorePath":"","keystorePassword":"","keystoreAlias":"","keystoreAliasPassword":"","appBundle":false,"androidInstant":false,"inputSDK":false,"remoteUrl":"","sdkPath":"","ndkPath":"","javaHome":"","javaPath":"","renderBackEnd":{"vulkan":false,"gles3":true,"gles2":false},"swappy":false,"__version__":"1.0.1"},"cocos-service":{"configID":"22ed39","services":[],"__version__":"3.0.7"},"native":{"encrypted":false,"xxteaKey":"3dYaGJ0rRP9bMXoy","compressZip":false,"JobSystem":"none","__version__":"1.0.2"}},"__version__":"1.3.7","buildMode":"normal","logDest":"project://temp/builder/log/android4-24-2024 14-36.log"}
+2024-4-24 14:36:05 - debug: Build with Cocos Creator 3.8.2
+2024-4-24 14:36:05 - debug: native:(onBeforeBuild) start..., progress: 0%
+2024-4-24 14:36:05 - debug: // ---- build task native：onBeforeBuild ----
+2024-4-24 14:36:05 - debug: // ---- build task native：onBeforeBuild ---- (15ms)
+2024-4-24 14:36:05 - debug: native:(onBeforeBuild) in 15 ms ✓, progress: 2%
+2024-4-24 14:36:05 - debug: cocos-service:(onBeforeBuild) start..., progress: 2%
+2024-4-24 14:36:05 - debug: // ---- build task cocos-service：onBeforeBuild ----
+2024-4-24 14:36:06 - debug: // ---- build task cocos-service：onBeforeBuild ---- (726ms)
+2024-4-24 14:36:06 - debug: cocos-service:(onBeforeBuild) in 726 ms ✓, progress: 4%
+2024-4-24 14:36:06 - debug: scene:(onBeforeBuild) start..., progress: 4%
+2024-4-24 14:36:06 - debug: // ---- build task scene：onBeforeBuild ----
+2024-4-24 14:36:06 - debug: // ---- build task scene：onBeforeBuild ---- (54ms)
+2024-4-24 14:36:06 - debug: scene:(onBeforeBuild) in 54 ms ✓, progress: 7%
+2024-4-24 14:36:06 - debug: Start lock asset db..., progress: 7%
+2024-4-24 14:36:06 - log: Asset DB is paused with build!
+2024-4-24 14:36:06 - debug: Query all assets info in project
+2024-4-24 14:36:06 - debug: init custom config: keepNodeUuid: false, useCache: true
+2024-4-24 14:36:06 - debug:   Number of all scenes: 1
+2024-4-24 14:36:06 - debug:   Number of all scripts: 7
+2024-4-24 14:36:06 - debug:   Number of other assets: 394
+2024-4-24 14:36:06 - debug: native:(onAfterInit) start..., progress: 7%
+2024-4-24 14:36:06 - debug: // ---- build task native：onAfterInit ----
+2024-4-24 14:36:06 - debug: Native engine root:/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/native
+2024-4-24 14:36:06 - debug: // ---- build task native：onAfterInit ---- (247ms)
+2024-4-24 14:36:06 - debug: native:(onAfterInit) in 247 ms ✓, progress: 9%
+2024-4-24 14:36:06 - debug: android:(onAfterInit) start..., progress: 9%
+2024-4-24 14:36:06 - debug: // ---- build task android：onAfterInit ----
+2024-4-24 14:36:06 - debug: // ---- build task android：onAfterInit ---- (42ms)
+2024-4-24 14:36:06 - debug: android:(onAfterInit) in 42 ms ✓, progress: 11%
+2024-4-24 14:36:06 - debug: cocos-service:(onAfterInit) start..., progress: 11%
+2024-4-24 14:36:06 - debug: // ---- build task cocos-service：onAfterInit ----
+2024-4-24 14:36:06 - debug: // ---- build task cocos-service：onAfterInit ---- (262ms)
+2024-4-24 14:36:06 - debug: cocos-service:(onAfterInit) in 262 ms ✓, progress: 13%
+2024-4-24 14:36:06 - debug: engine:(onAfterInit) start..., progress: 13%
+2024-4-24 14:36:06 - debug: // ---- build task engine：onAfterInit ----
+2024-4-24 14:36:06 - debug: // ---- build task engine：onAfterInit ---- (67ms)
+2024-4-24 14:36:06 - debug: engine:(onAfterInit) in 67 ms ✓, progress: 16%
+2024-4-24 14:36:06 - debug: adsense-h5g-plugin:(onBeforeBundleInit) start..., progress: 16%
+2024-4-24 14:36:06 - debug: // ---- build task adsense-h5g-plugin：onBeforeBundleInit ----
+2024-4-24 14:36:06 - debug: [adsense-h5g-plugin] remove script success
+2024-4-24 14:36:06 - debug: // ---- build task adsense-h5g-plugin：onBeforeBundleInit ---- (40ms)
+2024-4-24 14:36:06 - debug: adsense-h5g-plugin:(onBeforeBundleInit) in 40 ms ✓, progress: 16%
+2024-4-24 14:36:06 - debug: Init all bundles start..., progress: 16%
+2024-4-24 14:36:06 - debug: Num of bundles: 3..., progress: 16%
+2024-4-24 14:36:06 - debug: reload all scripts.
+2024-4-24 14:36:06 - debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-4-24 14:36:06 - groupCollapsed: Invalidate all modules
+2024-4-24 14:36:06 - debug: Unregister DebugViewRuntimeControl
+2024-4-24 14:36:06 - debug: Unregister EnemyController
+2024-4-24 14:36:06 - debug: Unregister BulletController
+2024-4-24 14:36:06 - debug: Unregister GameController
+2024-4-24 14:36:06 - debug: Unregister BgController
+2024-4-24 14:36:06 - debug: Unregister EnemyManager
+2024-4-24 14:36:06 - debug: Unregister PlayerController
+2024-4-24 14:36:06 - debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-4-24 14:36:06 - debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-4-24 14:36:06 - debug: Invalidating 'pack:///chunks/47/47a1530b86f8dba752d13f037cd555503db82c41.js'
+2024-4-24 14:36:06 - debug: Invalidating 'pack:///chunks/fd/fd80061ad4be141ec483ee176e53c35041d84473.js'
+2024-4-24 14:36:06 - debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-4-24 14:36:06 - debug: Invalidating 'pack:///chunks/c6/c6edd1580601d1dabc570b90b190fc14d44a264e.js'
+2024-4-24 14:36:06 - debug: Invalidating 'pack:///chunks/5b/5bcbafd60626b1d189abaaf2b17ea26fc973449a.js'
+2024-4-24 14:36:06 - debug: Invalidating 'pack:///chunks/96/9640676adc2a59df7710ea588078999c64fcf06f.js'
+2024-4-24 14:36:06 - debug: Invalidating 'pack:///chunks/a5/a5b106bb04981615ce91eb6366f1312f3cbefd34.js'
+2024-4-24 14:36:06 - debug: Invalidating 'pack:///chunks/1d/1d7d749328db2cb13c19d156484659f2824f22e4.js'
+2024-4-24 14:36:06 - groupEnd: Invalidate all modules
+2024-4-24 14:36:06 - groupCollapsed: Imports all modules
+2024-4-24 14:36:06 - debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-4-24 14:36:06 - debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-4-24 14:36:06 - debug: [[Executor]] Register DebugViewRuntimeControl
+2024-4-24 14:36:06 - debug: [[Executor]] Module "pack:///chunks/47/47a1530b86f8dba752d13f037cd555503db82c41.js" loaded.
+2024-4-24 14:36:06 - debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-4-24 14:36:06 - debug: [[Executor]] Register EnemyController
+2024-4-24 14:36:06 - debug: [[Executor]] Module "pack:///chunks/c6/c6edd1580601d1dabc570b90b190fc14d44a264e.js" loaded.
+2024-4-24 14:36:06 - debug: [[Executor]] Register BulletController
+2024-4-24 14:36:06 - debug: [[Executor]] Module "pack:///chunks/5b/5bcbafd60626b1d189abaaf2b17ea26fc973449a.js" loaded.
+2024-4-24 14:36:06 - debug: [[Executor]] Register GameController
+2024-4-24 14:36:06 - debug: [[Executor]] Module "pack:///chunks/96/9640676adc2a59df7710ea588078999c64fcf06f.js" loaded.
+2024-4-24 14:36:06 - debug: [[Executor]] Register BgController
+2024-4-24 14:36:06 - debug: [[Executor]] Module "pack:///chunks/fd/fd80061ad4be141ec483ee176e53c35041d84473.js" loaded.
+2024-4-24 14:36:06 - debug: [[Executor]] Register EnemyManager
+2024-4-24 14:36:06 - debug: [[Executor]] Module "pack:///chunks/a5/a5b106bb04981615ce91eb6366f1312f3cbefd34.js" loaded.
+2024-4-24 14:36:06 - debug: [[Executor]] Register PlayerController
+2024-4-24 14:36:06 - debug: [[Executor]] Module "pack:///chunks/1d/1d7d749328db2cb13c19d156484659f2824f22e4.js" loaded.
+2024-4-24 14:36:06 - debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-4-24 14:36:06 - groupEnd: Imports all modules
+2024-4-24 14:36:06 - debug: Incremental keys: 
+2024-4-24 14:36:06 - debug: native:(onAfterBundleInit) start..., progress: 16%
+2024-4-24 14:36:06 - debug: // ---- build task native：onAfterBundleInit ----
+2024-4-24 14:36:06 - debug: // ---- build task native：onAfterBundleInit ---- (42ms)
+2024-4-24 14:36:06 - debug: native:(onAfterBundleInit) in 42 ms ✓, progress: 16%
+2024-4-24 14:36:06 - debug: android:(onAfterBundleInit) start..., progress: 16%
+2024-4-24 14:36:06 - debug: // ---- build task android：onAfterBundleInit ----
+2024-4-24 14:36:06 - debug: // ---- build task android：onAfterBundleInit ---- (31ms)
+2024-4-24 14:36:06 - debug: android:(onAfterBundleInit) in 31 ms ✓, progress: 16%
+2024-4-24 14:36:06 - debug: 查询 Asset Bundle start, progress: 16%
+2024-4-24 14:36:06 - debug: // ---- build task 查询 Asset Bundle ----
+2024-4-24 14:36:06 - debug: Init bundle root assets start..., progress: 16%
+2024-4-24 14:36:06 - debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+2024-4-24 14:36:06 - debug: Init bundle root assets success..., progress: 16%
+2024-4-24 14:36:06 - debug: Init bundle share assets start..., progress: 16%
+2024-4-24 14:36:06 - debug: Init bundle share assets success..., progress: 16%
+2024-4-24 14:36:06 - debug: handle json group in bundle internal
+2024-4-24 14:36:06 - debug: handle json group in bundle internal success
+2024-4-24 14:36:06 - debug: handle json group in bundle resources
+2024-4-24 14:36:06 - debug: handle json group in bundle main
+2024-4-24 14:36:06 - debug: init image compress task 0 in bundle internal
+2024-4-24 14:36:06 - debug: handle json group in bundle main success
+2024-4-24 14:36:06 - debug: init image compress task 0 in bundle main
+2024-4-24 14:36:06 - debug: handle json group in bundle resources success
+2024-4-24 14:36:06 - debug: init image compress task 0 in bundle resources
+2024-4-24 14:36:06 - debug: // ---- build task 查询 Asset Bundle ---- (98ms)
+2024-4-24 14:36:06 - debug: run build task 查询 Asset Bundle success in 98 ms√, progress: 21%
+2024-4-24 14:36:06 - debug: [Build Memory track]: 查询 Asset Bundle start:265.85MB, end 265.71MB, increase: -148.01KB
+2024-4-24 14:36:06 - debug: 查询 Asset Bundle start, progress: 21%
+2024-4-24 14:36:06 - debug: // ---- build task 查询 Asset Bundle ----
+2024-4-24 14:36:07 - debug: // ---- build task 查询 Asset Bundle ---- (25ms)
+2024-4-24 14:36:07 - debug: run build task 查询 Asset Bundle success in 25 ms√, progress: 26%
+2024-4-24 14:36:07 - debug: [Build Memory track]: 查询 Asset Bundle start:265.72MB, end 265.90MB, increase: 185.38KB
+2024-4-24 14:36:07 - debug: native:(onAfterBundleDataTask) start..., progress: 26%
+2024-4-24 14:36:07 - debug: // ---- build task native：onAfterBundleDataTask ----
+2024-4-24 14:36:07 - debug: // ---- build task native：onAfterBundleDataTask ---- (28ms)
+2024-4-24 14:36:07 - debug: native:(onAfterBundleDataTask) in 28 ms ✓, progress: 26%
+2024-4-24 14:36:07 - debug: 打包脚本 start, progress: 26%
+2024-4-24 14:36:07 - debug: // ---- build task 打包脚本 ----
+2024-4-24 14:36:07 - debug: Caught exception during build core-js: WebpackOptionsValidationError: Invalid configuration object. Webpack has been initialised using a configuration object that does not match the API schema. - configuration.entry should be an non-empty array.   -> A non-empty array of non-empty stringsThis may indicates the core-js polyfill is not necessary. See https://github.com/zloirock/core-js/issues/822
+2024-4-24 14:36:07 - debug: Generate systemJs..., progress: 26%
+2024-4-24 14:36:09 - debug: 构建项目脚本 start..., progress: 26%
+2024-4-24 14:36:09 - debug: Build script in bundle start, progress: 26%
+2024-4-24 14:36:09 - log: Run build task(build-script) in child, see: chrome://inspect/#devices
+2024-4-24 14:36:10 - log: [build-script]enter sub process 20627, /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Frameworks/CocosCreator Helper (Renderer).app/Contents/MacOS/CocosCreator Helper (Renderer),/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/app.asar/builtin/builder/static/sub-process-index
+2024-4-24 14:36:12 - debug: excute-script over with build-script 2555ms
+2024-4-24 14:36:12 - debug: Copy externalScripts success!
+2024-4-24 14:36:12 - debug: Build script in bundle success, progress: 26%
+2024-4-24 14:36:12 - debug: 构建项目脚本 in (2942 ms) √, progress: 26%
+2024-4-24 14:36:12 - debug: 构建引擎脚本 start..., progress: 26%
+2024-4-24 14:36:12 - debug: Use cache engine: {link(/var/folders/qx/2_7r2zdn6nb64800t9837jtr0000gn/T/CocosCreator/3.8.2/builder/engine/db06f3ba31ab1fd4865c9ed0c4d4ecf7)}
+2024-4-24 14:36:12 - debug: {"debug":false,"sourceMaps":false,"includeModules":["2d","animation","audio","base","dragon-bones","intersection-2d","particle-2d","physics-2d-box2d","profiler","spine","tiled-map","tween","ui","video","webview"],"engineVersion":"3.8.2","md5Map":[],"engineName":"src/cocos-js","platform":"ANDROID","useCache":true,"isNative":true,"output":"/Users/wangyifeng1/AircraftBattle/build/android/data/src/cocos-js","targets":"chrome 80","flags":{"DEBUG":false,"CULL_MESHOPT":true},"entry":"/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine"}
+2024-4-24 14:36:12 - debug: 构建引擎脚本 in (98 ms) √, progress: 26%
+2024-4-24 14:36:12 - debug: Copy plugin script ..., progress: 26%
+2024-4-24 14:36:12 - debug: Generate import-map..., progress: 26%
+2024-4-24 14:36:12 - debug: // ---- build task 打包脚本 ---- (5475ms)
+2024-4-24 14:36:12 - debug: run build task 打包脚本 success in 5 s√, progress: 31%
+2024-4-24 14:36:12 - debug: [Build Memory track]: 打包脚本 start:266.20MB, end 255.51MB, increase: -10947.27KB
+2024-4-24 14:36:12 - debug: Build Assets start, progress: 31%
+2024-4-24 14:36:12 - debug: // ---- build task Build Assets ----
+2024-4-24 14:36:12 - debug: Build bundles..., progress: 31%
+2024-4-24 14:36:12 - debug: Pack Images start, progress: 31%
+2024-4-24 14:36:12 - debug: builder:pack-auto-atlas-image (95ms)
+2024-4-24 14:36:12 - debug: Pack Images success, progress: 31%
+2024-4-24 14:36:12 - debug: Compress image start..., progress: 31%
+2024-4-24 14:36:12 - group: Compress image...
+2024-4-24 14:36:12 - debug: sort compress task {}
+2024-4-24 14:36:12 - debug: Num of all image compress task 0, really: 0, configTasks: 0
+2024-4-24 14:36:12 - debug: No image need to compress
+2024-4-24 14:36:12 - groupEnd: Compress image...
+2024-4-24 14:36:12 - debug: Compress image success..., progress: 31%
+2024-4-24 14:36:12 - debug: Ouput asset in bundles start, progress: 31%
+2024-4-24 14:36:12 - debug: Handle all json groups in bundle internal
+2024-4-24 14:36:12 - debug: handle json group
+2024-4-24 14:36:12 - debug: Handle all json groups in bundle resources
+2024-4-24 14:36:12 - debug: handle json group
+2024-4-24 14:36:12 - debug: Handle all json groups in bundle main
+2024-4-24 14:36:12 - debug: handle json group
+2024-4-24 14:36:12 - debug: handle single json
+2024-4-24 14:36:12 - debug: Json group(0770d7650) compile success，json number: 6
+2024-4-24 14:36:12 - debug: handle single json
+2024-4-24 14:36:12 - debug: Json group(0ca60d3e4) compile success，json number: 6
+2024-4-24 14:36:12 - debug: handle single json
+2024-4-24 14:36:12 - debug: Output asset in bundles success, progress: 31%
+2024-4-24 14:36:12 - debug: // ---- build task Build Assets ---- (253ms)
+2024-4-24 14:36:12 - debug: run build task Build Assets success in 253 ms√, progress: 36%
+2024-4-24 14:36:12 - debug: [Build Memory track]: Build Assets start:255.52MB, end 258.21MB, increase: 2.69MB
+2024-4-24 14:36:12 - debug: 给所有的资源加上 MD5 后缀 start, progress: 36%
+2024-4-24 14:36:12 - debug: // ---- build task 给所有的资源加上 MD5 后缀 ----
+2024-4-24 14:36:12 - debug: // ---- build task 给所有的资源加上 MD5 后缀 ---- (58ms)
+2024-4-24 14:36:12 - debug: run build task 给所有的资源加上 MD5 后缀 success in 58 ms√, progress: 41%
+2024-4-24 14:36:12 - debug: [Build Memory track]: 给所有的资源加上 MD5 后缀 start:258.29MB, end 258.48MB, increase: 197.08KB
+2024-4-24 14:36:12 - debug: 查询 Asset Bundle start, progress: 41%
+2024-4-24 14:36:12 - debug: // ---- build task 查询 Asset Bundle ----
+2024-4-24 14:36:12 - debug: Output asset in bundles start, progress: 41%
+2024-4-24 14:36:12 - debug: compress config of bundle internal...
+2024-4-24 14:36:12 - debug: compress config of bundle internal success
+2024-4-24 14:36:12 - debug: compress config of bundle resources...
+2024-4-24 14:36:12 - debug: compress config of bundle resources success
+2024-4-24 14:36:12 - debug: compress config of bundle main...
+2024-4-24 14:36:12 - debug: compress config of bundle main success
+2024-4-24 14:36:12 - debug: ouput config of bundle internal
+2024-4-24 14:36:12 - debug: output config of bundle internal success
+2024-4-24 14:36:12 - debug: ouput config of bundle resources
+2024-4-24 14:36:12 - debug: output config of bundle resources success
+2024-4-24 14:36:12 - debug: ouput config of bundle main
+2024-4-24 14:36:12 - debug: output config of bundle main success
+2024-4-24 14:36:12 - debug: Output asset in bundles success, progress: 41%
+2024-4-24 14:36:12 - debug: // ---- build task 查询 Asset Bundle ---- (105ms)
+2024-4-24 14:36:12 - debug: run build task 查询 Asset Bundle success in 105 ms√, progress: 46%
+2024-4-24 14:36:12 - debug: [Build Memory track]: 查询 Asset Bundle start:258.49MB, end 259.07MB, increase: 588.72KB
+2024-4-24 14:36:12 - debug: 整理部分构建选项内数据到 settings.json start, progress: 46%
+2024-4-24 14:36:12 - debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-4-24 14:36:12 - debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (57ms)
+2024-4-24 14:36:12 - debug: run build task 整理部分构建选项内数据到 settings.json success in 57 ms√, progress: 47%
+2024-4-24 14:36:12 - debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:259.08MB, end 259.25MB, increase: 181.71KB
+2024-4-24 14:36:12 - debug: 填充脚本数据到 settings.json start, progress: 47%
+2024-4-24 14:36:12 - debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-4-24 14:36:13 - debug: // ---- build task 填充脚本数据到 settings.json ---- (72ms)
+2024-4-24 14:36:13 - debug: run build task 填充脚本数据到 settings.json success in 72 ms√, progress: 49%
+2024-4-24 14:36:13 - debug: [Build Memory track]: 填充脚本数据到 settings.json start:259.27MB, end 259.44MB, increase: 182.11KB
+2024-4-24 14:36:13 - debug: 整理部分构建选项内数据到 settings.json start, progress: 49%
+2024-4-24 14:36:13 - debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-4-24 14:36:13 - debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (66ms)
+2024-4-24 14:36:13 - debug: run build task 整理部分构建选项内数据到 settings.json success in 66 ms√, progress: 51%
+2024-4-24 14:36:13 - debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:259.45MB, end 259.73MB, increase: 288.16KB
+2024-4-24 14:36:13 - debug: cocos-service:(onBeforeCompressSettings) start..., progress: 51%
+2024-4-24 14:36:13 - debug: // ---- build task cocos-service：onBeforeCompressSettings ----
+2024-4-24 14:36:13 - debug: // ---- build task cocos-service：onBeforeCompressSettings ---- (309ms)
+2024-4-24 14:36:13 - debug: cocos-service:(onBeforeCompressSettings) in 309 ms ✓, progress: 53%
+2024-4-24 14:36:13 - debug: 保存 settings.json start, progress: 53%
+2024-4-24 14:36:13 - debug: // ---- build task 保存 settings.json ----
+2024-4-24 14:36:13 - debug: // ---- build task 保存 settings.json ---- (46ms)
+2024-4-24 14:36:13 - debug: run build task 保存 settings.json success in 46 ms√, progress: 55%
+2024-4-24 14:36:13 - debug: [Build Memory track]: 保存 settings.json start:259.99MB, end 260.23MB, increase: 246.77KB
+2024-4-24 14:36:13 - debug: 整理静态模板文件 start, progress: 55%
+2024-4-24 14:36:13 - debug: // ---- build task 整理静态模板文件 ----
+2024-4-24 14:36:13 - debug: // ---- build task 整理静态模板文件 ---- (78ms)
+2024-4-24 14:36:13 - debug: run build task 整理静态模板文件 success in 78 ms√, progress: 58%
+2024-4-24 14:36:13 - debug: [Build Memory track]: 整理静态模板文件 start:260.24MB, end 254.38MB, increase: -6004.27KB
+2024-4-24 14:36:13 - debug: native:(onAfterCompressSettings) start..., progress: 58%
+2024-4-24 14:36:13 - debug: // ---- build task native：onAfterCompressSettings ----
+2024-4-24 14:36:13 - log: Checking template version...
+2024-4-24 14:36:13 - log: Validating template consistency...
+2024-4-24 14:36:13 - debug: generateCMakeConfig, {"CC_USE_GLES3":"set(CC_USE_GLES3 ON)","CC_USE_GLES2":"set(CC_USE_GLES2 OFF)","USE_SERVER_MODE":"set(USE_SERVER_MODE OFF)","NET_MODE":"set(NET_MODE 0)","XXTEAKEY":"","CC_ENABLE_SWAPPY":"set(CC_ENABLE_SWAPPY OFF)","APP_NAME":"set(APP_NAME \"AircraftBattle\")","COCOS_X_PATH":"set(COCOS_X_PATH \"/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/native\")","USE_JOB_SYSTEM_TASKFLOW":"set(USE_JOB_SYSTEM_TASKFLOW OFF)","USE_JOB_SYSTEM_TBB":"set(USE_JOB_SYSTEM_TBB OFF)","ENABLE_FLOAT_OUTPUT":"set(ENABLE_FLOAT_OUTPUT OFF)","USE_PHYSICS_PHYSX":"set(USE_PHYSICS_PHYSX OFF)","USE_OCCLUSION_QUERY":"set(USE_OCCLUSION_QUERY OFF)","USE_GEOMETRY_RENDERER":"set(USE_GEOMETRY_RENDERER OFF)","USE_DEBUG_RENDERER":"set(USE_DEBUG_RENDERER OFF)","USE_AUDIO":"set(USE_AUDIO ON)","USE_VIDEO":"set(USE_VIDEO ON)","USE_WEBVIEW":"set(USE_WEBVIEW ON)","USE_SOCKET":"set(USE_SOCKET OFF)","USE_WEBSOCKET_SERVER":"set(USE_WEBSOCKET_SERVER OFF)","USE_SPINE":"set(USE_SPINE ON)","USE_DRAGONBONES":"set(USE_DRAGONBONES ON)","CC_USE_VULKAN":"set(CC_USE_VULKAN OFF)"}
+2024-4-24 14:36:13 - log: While replace template content, file /Users/wangyifeng1/AircraftBattle/build/android/proj/main.cpp
+2024-4-24 14:36:13 - log: While replace template content, file /Users/wangyifeng1/AircraftBattle/build/android/proj/main.m
+2024-4-24 14:36:13 - log: While replace template content, file /Users/wangyifeng1/AircraftBattle/native/engine/android/entry/src/main/config.json
+2024-4-24 14:36:13 - log: update settings.properties
+2024-4-24 14:36:13 - log: update gradle.properties
+2024-4-24 14:36:13 - log: AndroidAPI level 28
+2024-4-24 14:36:13 - log: android instant not configured
+2024-4-24 14:36:13 - debug: // ---- build task native：onAfterCompressSettings ---- (93ms)
+2024-4-24 14:36:13 - debug: native:(onAfterCompressSettings) in 93 ms ✓, progress: 60%
+2024-4-24 14:36:13 - debug: cocos-service:(onAfterCompressSettings) start..., progress: 60%
+2024-4-24 14:36:13 - debug: // ---- build task cocos-service：onAfterCompressSettings ----
+2024-4-24 14:36:13 - debug: // ---- build task cocos-service：onAfterCompressSettings ---- (334ms)
+2024-4-24 14:36:13 - debug: cocos-service:(onAfterCompressSettings) in 334 ms ✓, progress: 62%
+2024-4-24 14:36:13 - debug: native:(onAfterBuild) start..., progress: 62%
+2024-4-24 14:36:13 - debug: // ---- build task native：onAfterBuild ----
+2024-4-24 14:36:14 - debug: // ---- build task native：onAfterBuild ---- (77ms)
+2024-4-24 14:36:14 - debug: native:(onAfterBuild) in 77 ms ✓, progress: 64%
+2024-4-24 14:36:14 - debug: cocos-service:(onAfterBuild) start..., progress: 64%
+2024-4-24 14:36:14 - debug: // ---- build task cocos-service：onAfterBuild ----
+2024-4-24 14:36:14 - debug: // ---- build task cocos-service：onAfterBuild ---- (304ms)
+2024-4-24 14:36:14 - debug: cocos-service:(onAfterBuild) in 304 ms ✓, progress: 67%
+2024-4-24 14:36:14 - debug: adsense-h5g-plugin:(onAfterBuild) start..., progress: 67%
+2024-4-24 14:36:14 - debug: // ---- build task adsense-h5g-plugin：onAfterBuild ----
+2024-4-24 14:36:14 - debug: // ---- build task adsense-h5g-plugin：onAfterBuild ---- (70ms)
+2024-4-24 14:36:14 - debug: adsense-h5g-plugin:(onAfterBuild) in 70 ms ✓, progress: 69%
+2024-4-24 14:36:14 - log: Asset DB is resume!
+2024-4-24 14:36:14 - debug: builder:build-project-total (9218ms)
+2024-4-24 14:36:14 - debug: build success in 9218!
+2024-4-24 14:36:14 - debug: [Build Memory track]: builder:build-project-total start:260.19MB, end 256.85MB, increase: -3417.65KB
+2024-4-24 14:36:14 - debug: ================================ build Task (android) Finished in (9 s)ms ================================

@@ -1,0 +1,298 @@
+{
+  "__version__": "1.3.7",
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "polyfills": {
+      "asyncFunctions": true
+    },
+    "buildPath": "project://build",
+    "outputName": "wechatgame",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "wechatgame",
+    "name": "AircraftBattle",
+    "scenes": [
+      {
+        "url": "db://assets/scene.scene",
+        "uuid": "00d0038f-6501-4aca-9019-e889f5434aa0"
+      }
+    ],
+    "sourceMaps": false,
+    "debug": false
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1713940481022": {
+        "type": "build",
+        "id": "1713940481022",
+        "progress": 1,
+        "state": "success",
+        "stage": "run",
+        "message": "2024-4-24 14:35:23 run package /Users/wangyifeng1/AircraftBattle/build/web-desktop success!",
+        "options": {
+          "name": "AircraftBattle",
+          "server": "",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": true
+          },
+          "experimentalEraseModules": false,
+          "startSceneAssetBundle": false,
+          "bundleConfigs": [],
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "bundleCommonChunk": false,
+          "packAutoAtlas": true,
+          "startScene": "00d0038f-6501-4aca-9019-e889f5434aa0",
+          "outputName": "web-desktop",
+          "taskName": "web-desktop",
+          "scenes": [
+            {
+              "url": "db://assets/scene.scene",
+              "uuid": "00d0038f-6501-4aca-9019-e889f5434aa0"
+            }
+          ],
+          "packages": {},
+          "__version__": "1.3.7",
+          "buildMode": "normal",
+          "logDest": "project://temp/builder/log/web-desktop4-24-2024 14-34.log"
+        },
+        "time": "4-24-2024 14:34:41",
+        "dirty": false
+      },
+      "1713940565225": {
+        "type": "build",
+        "id": "1713940565225",
+        "progress": 1,
+        "state": "success",
+        "stage": "build",
+        "message": "2024-4-24 14:36:14 build success in 9 s!",
+        "options": {
+          "name": "AircraftBattle",
+          "server": "",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": false
+          },
+          "experimentalEraseModules": false,
+          "startSceneAssetBundle": false,
+          "bundleConfigs": [],
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "bundleCommonChunk": false,
+          "packAutoAtlas": true,
+          "startScene": "00d0038f-6501-4aca-9019-e889f5434aa0",
+          "outputName": "android",
+          "taskName": "android",
+          "scenes": [
+            {
+              "url": "db://assets/scene.scene",
+              "uuid": "00d0038f-6501-4aca-9019-e889f5434aa0"
+            }
+          ],
+          "packages": {},
+          "__version__": "1.3.7",
+          "buildMode": "normal",
+          "logDest": "project://temp/builder/log/android4-24-2024 14-36.log"
+        },
+        "time": "4-24-2024 14:36:05",
+        "dirty": false
+      },
+      "1717138759370": {
+        "type": "build",
+        "id": "1717138759370",
+        "progress": 1,
+        "state": "success",
+        "stage": "build",
+        "message": "2024-5-31 15:00:13 build success in 54 s!",
+        "options": {
+          "name": "AircraftBattle",
+          "server": "",
+          "platform": "wechatgame",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": false
+          },
+          "experimentalEraseModules": false,
+          "startSceneAssetBundle": false,
+          "bundleConfigs": [],
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "bundleCommonChunk": false,
+          "packAutoAtlas": true,
+          "startScene": "00d0038f-6501-4aca-9019-e889f5434aa0",
+          "outputName": "wechatgame",
+          "taskName": "wechatgame",
+          "scenes": [
+            {
+              "url": "db://assets/scene.scene",
+              "uuid": "00d0038f-6501-4aca-9019-e889f5434aa0"
+            }
+          ],
+          "packages": {},
+          "__version__": "1.3.7",
+          "buildMode": "normal",
+          "logDest": "project://temp/builder/log/wechatgame5-31-2024 14-59.log"
+        },
+        "time": "5-31-2024 14:59:19",
+        "dirty": false
+      },
+      "1717141197212": {
+        "type": "build",
+        "id": "1717141197212",
+        "progress": 1,
+        "state": "success",
+        "stage": "build",
+        "message": "2024-5-31 15:40:49 build success in 51 s!",
+        "options": {
+          "name": "AircraftBattle",
+          "server": "",
+          "platform": "wechatgame",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": true,
+          "polyfills": {
+            "asyncFunctions": false
+          },
+          "experimentalEraseModules": false,
+          "startSceneAssetBundle": false,
+          "bundleConfigs": [],
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "bundleCommonChunk": false,
+          "packAutoAtlas": true,
+          "startScene": "00d0038f-6501-4aca-9019-e889f5434aa0",
+          "outputName": "wechatgame-001",
+          "taskName": "wechatgame-001",
+          "scenes": [
+            {
+              "url": "db://assets/scene.scene",
+              "uuid": "00d0038f-6501-4aca-9019-e889f5434aa0"
+            }
+          ],
+          "packages": {},
+          "__version__": "1.3.7",
+          "buildMode": "normal",
+          "logDest": "project://temp/builder/log/wechatgame5-31-2024 15-39.log"
+        },
+        "time": "5-31-2024 15:39:57",
+        "dirty": false
+      },
+      "1717142808228": {
+        "type": "build",
+        "id": "1717142808228",
+        "progress": 1,
+        "state": "success",
+        "stage": "build",
+        "message": "2024-5-31 16:07:27 build success in 39 s!",
+        "options": {
+          "name": "AircraftBattle",
+          "server": "",
+          "platform": "wechatgame",
+          "buildPath": "project://build",
+          "debug": true,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": false
+          },
+          "experimentalEraseModules": false,
+          "startSceneAssetBundle": false,
+          "bundleConfigs": [],
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "bundleCommonChunk": false,
+          "packAutoAtlas": true,
+          "startScene": "00d0038f-6501-4aca-9019-e889f5434aa0",
+          "outputName": "wechatgame-002",
+          "taskName": "wechatgame-002",
+          "scenes": [
+            {
+              "url": "db://assets/scene.scene",
+              "uuid": "00d0038f-6501-4aca-9019-e889f5434aa0"
+            }
+          ],
+          "packages": {},
+          "__version__": "1.3.7",
+          "buildMode": "normal",
+          "logDest": "project://temp/builder/log/wechatgame5-31-2024 16-06.log"
+        },
+        "time": "5-31-2024 16:06:48",
+        "dirty": false
+      },
+      "1717143007992": {
+        "type": "build",
+        "id": "1717143007992",
+        "progress": 1,
+        "state": "success",
+        "stage": "build",
+        "message": "2024-5-31 16:11:02 build success in 54 s!",
+        "options": {
+          "name": "AircraftBattle",
+          "server": "",
+          "platform": "wechatgame",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": false
+          },
+          "experimentalEraseModules": false,
+          "startSceneAssetBundle": false,
+          "bundleConfigs": [],
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "bundleCommonChunk": false,
+          "packAutoAtlas": true,
+          "startScene": "00d0038f-6501-4aca-9019-e889f5434aa0",
+          "outputName": "wechatgame-003",
+          "taskName": "wechatgame-003",
+          "scenes": [
+            {
+              "url": "db://assets/scene.scene",
+              "uuid": "00d0038f-6501-4aca-9019-e889f5434aa0"
+            }
+          ],
+          "packages": {},
+          "__version__": "1.3.7",
+          "buildMode": "normal",
+          "logDest": "project://temp/builder/log/wechatgame5-31-2024 16-10.log"
+        },
+        "time": "5-31-2024 16:10:07",
+        "dirty": false
+      }
+    }
+  }
+}
