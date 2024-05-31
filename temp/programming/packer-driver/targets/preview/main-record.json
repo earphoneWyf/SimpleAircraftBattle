@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 27398.45579200983,
+      "mTimestamp": 12508.752334058285,
       "chunkId": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b",
       "imports": [
         {
@@ -409,7 +409,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 30797.01283401251,
+      "mTimestamp": 15552.020542025566,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
@@ -427,7 +427,7 @@
           }
         },
         {
-          "value": "file:///Users/wangyifeng1/AircraftBattle/assets/script/BgController.ts",
+          "value": "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/BgController.ts",
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
@@ -436,12 +436,12 @@
             },
             "end": {
               "line": 5,
-              "column": 79
+              "column": 93
             }
           }
         },
         {
-          "value": "file:///Users/wangyifeng1/AircraftBattle/assets/script/BulletController.ts",
+          "value": "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/BulletController.ts",
           "resolved": "__unresolved_2",
           "loc": {
             "start": {
@@ -450,12 +450,12 @@
             },
             "end": {
               "line": 6,
-              "column": 83
+              "column": 97
             }
           }
         },
         {
-          "value": "file:///Users/wangyifeng1/AircraftBattle/assets/script/EnemyController.ts",
+          "value": "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/EnemyController.ts",
           "resolved": "__unresolved_3",
           "loc": {
             "start": {
@@ -464,12 +464,12 @@
             },
             "end": {
               "line": 7,
-              "column": 82
+              "column": 96
             }
           }
         },
         {
-          "value": "file:///Users/wangyifeng1/AircraftBattle/assets/script/EnemyManager.ts",
+          "value": "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/EnemyManager.ts",
           "resolved": "__unresolved_4",
           "loc": {
             "start": {
@@ -478,12 +478,12 @@
             },
             "end": {
               "line": 8,
-              "column": 79
+              "column": 93
             }
           }
         },
         {
-          "value": "file:///Users/wangyifeng1/AircraftBattle/assets/script/GameController.ts",
+          "value": "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/GameController.ts",
           "resolved": "__unresolved_5",
           "loc": {
             "start": {
@@ -492,12 +492,12 @@
             },
             "end": {
               "line": 9,
-              "column": 81
+              "column": 95
             }
           }
         },
         {
-          "value": "file:///Users/wangyifeng1/AircraftBattle/assets/script/PlayerController.ts",
+          "value": "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/PlayerController.ts",
           "resolved": "__unresolved_6",
           "loc": {
             "start": {
@@ -506,7 +506,7 @@
             },
             "end": {
               "line": 10,
-              "column": 83
+              "column": 97
             }
           }
         }
@@ -523,42 +523,42 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/wangyifeng1/AircraftBattle/assets/script/BgController.ts"
+            "url": "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/BgController.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/wangyifeng1/AircraftBattle/assets/script/BulletController.ts"
+            "url": "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/BulletController.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/wangyifeng1/AircraftBattle/assets/script/EnemyController.ts"
+            "url": "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/EnemyController.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/wangyifeng1/AircraftBattle/assets/script/EnemyManager.ts"
+            "url": "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/EnemyManager.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/wangyifeng1/AircraftBattle/assets/script/GameController.ts"
+            "url": "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/GameController.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/wangyifeng1/AircraftBattle/assets/script/PlayerController.ts"
+            "url": "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/PlayerController.ts"
           },
           "messages": []
         }
@@ -1115,7 +1115,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1717139180967,
+      "mTimestamp": 1717145551594,
       "chunkId": "6a5019a719a9014c047e67aa1cf34453ab8392ce",
       "imports": [],
       "type": "esm",
@@ -1144,6 +1144,392 @@
             "end": {
               "line": 1,
               "column": 61
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/BgController.ts": {
+      "mTimestamp": {
+        "mtime": 1713939506162.4314,
+        "uuid": "f0da5650-ab32-446d-ad9f-791320d6e1b9"
+      },
+      "chunkId": "91013bee096981094c31d21df6f5b325087d764f",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 88
+            },
+            "end": {
+              "line": 1,
+              "column": 92
+            }
+          }
+        },
+        {
+          "value": "./EnemyController",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 32
+            },
+            "end": {
+              "line": 2,
+              "column": 51
+            }
+          }
+        },
+        {
+          "value": "./BulletController",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 33
+            },
+            "end": {
+              "line": 3,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "./GameController",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 42
+            },
+            "end": {
+              "line": 4,
+              "column": 60
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/EnemyController.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/BulletController.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/GameController.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/EnemyController.ts": {
+      "mTimestamp": {
+        "mtime": 1713854694604.4338,
+        "uuid": "8331fb42-a366-4d05-8b69-75a01252183f"
+      },
+      "chunkId": "cdcbe283a31a32c4f03d62d699860f3ae2cf28dc",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 76
+            },
+            "end": {
+              "line": 1,
+              "column": 80
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/BulletController.ts": {
+      "mTimestamp": {
+        "mtime": 1713784676398.3635,
+        "uuid": "fffe3f4b-0b0c-4405-ae68-67dc17f3079f"
+      },
+      "chunkId": "851d93ff90910440302051c661cf42059e01aef1",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/GameController.ts": {
+      "mTimestamp": {
+        "mtime": 1713939028827.8557,
+        "uuid": "1abd3e38-e432-4856-9253-8d58aa13ea42"
+      },
+      "chunkId": "3f70e0109fb28558ca32e17a64764d0c5b1ddfad",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 57
+            },
+            "end": {
+              "line": 1,
+              "column": 61
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/EnemyManager.ts": {
+      "mTimestamp": {
+        "mtime": 1713778367322.6096,
+        "uuid": "e5def689-5c2d-4859-8166-94a72d72556d"
+      },
+      "chunkId": "6cdbd88628d28d17b3e3022ff3ce75f40d8e8919",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 65
+            },
+            "end": {
+              "line": 1,
+              "column": 69
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/PlayerController.ts": {
+      "mTimestamp": {
+        "mtime": 1713777109279.8818,
+        "uuid": "599b5ba2-ce6e-42eb-8120-258e79fcd872"
+      },
+      "chunkId": "fbd0c440e4e06805551511d2cbfebc89c2c103ae",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 81
+            },
+            "end": {
+              "line": 1,
+              "column": 85
             }
           }
         }

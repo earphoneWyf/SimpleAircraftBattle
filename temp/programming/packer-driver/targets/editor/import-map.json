@@ -3,12 +3,12 @@
     "cce:/internal/x/cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js",
     "cce:/internal/x/prerequisite-imports": "./chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js",
     "file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "./chunks/47/47a1530b86f8dba752d13f037cd555503db82c41.js",
-    "file:///Users/wangyifeng1/AircraftBattle/assets/script/BgController.ts": "./chunks/fd/fd80061ad4be141ec483ee176e53c35041d84473.js",
-    "file:///Users/wangyifeng1/AircraftBattle/assets/script/BulletController.ts": "./chunks/5b/5bcbafd60626b1d189abaaf2b17ea26fc973449a.js",
-    "file:///Users/wangyifeng1/AircraftBattle/assets/script/EnemyController.ts": "./chunks/c6/c6edd1580601d1dabc570b90b190fc14d44a264e.js",
-    "file:///Users/wangyifeng1/AircraftBattle/assets/script/EnemyManager.ts": "./chunks/a5/a5b106bb04981615ce91eb6366f1312f3cbefd34.js",
-    "file:///Users/wangyifeng1/AircraftBattle/assets/script/GameController.ts": "./chunks/96/9640676adc2a59df7710ea588078999c64fcf06f.js",
-    "file:///Users/wangyifeng1/AircraftBattle/assets/script/PlayerController.ts": "./chunks/1d/1d7d749328db2cb13c19d156484659f2824f22e4.js"
+    "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/BgController.ts": "./chunks/91/91013bee096981094c31d21df6f5b325087d764f.js",
+    "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/BulletController.ts": "./chunks/85/851d93ff90910440302051c661cf42059e01aef1.js",
+    "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/EnemyController.ts": "./chunks/cd/cdcbe283a31a32c4f03d62d699860f3ae2cf28dc.js",
+    "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/EnemyManager.ts": "./chunks/6c/6cdbd88628d28d17b3e3022ff3ce75f40d8e8919.js",
+    "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/GameController.ts": "./chunks/3f/3f70e0109fb28558ca32e17a64764d0c5b1ddfad.js",
+    "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/PlayerController.ts": "./chunks/fb/fbd0c440e4e06805551511d2cbfebc89c2c103ae.js"
   },
   "scopes": {
     "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js": {
@@ -45,33 +45,33 @@
     },
     "./chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js": {
       "__unresolved_0": "./chunks/47/47a1530b86f8dba752d13f037cd555503db82c41.js",
-      "__unresolved_1": "./chunks/fd/fd80061ad4be141ec483ee176e53c35041d84473.js",
-      "__unresolved_2": "./chunks/5b/5bcbafd60626b1d189abaaf2b17ea26fc973449a.js",
-      "__unresolved_3": "./chunks/c6/c6edd1580601d1dabc570b90b190fc14d44a264e.js",
-      "__unresolved_4": "./chunks/a5/a5b106bb04981615ce91eb6366f1312f3cbefd34.js",
-      "__unresolved_5": "./chunks/96/9640676adc2a59df7710ea588078999c64fcf06f.js",
-      "__unresolved_6": "./chunks/1d/1d7d749328db2cb13c19d156484659f2824f22e4.js"
+      "__unresolved_1": "./chunks/91/91013bee096981094c31d21df6f5b325087d764f.js",
+      "__unresolved_2": "./chunks/85/851d93ff90910440302051c661cf42059e01aef1.js",
+      "__unresolved_3": "./chunks/cd/cdcbe283a31a32c4f03d62d699860f3ae2cf28dc.js",
+      "__unresolved_4": "./chunks/6c/6cdbd88628d28d17b3e3022ff3ce75f40d8e8919.js",
+      "__unresolved_5": "./chunks/3f/3f70e0109fb28558ca32e17a64764d0c5b1ddfad.js",
+      "__unresolved_6": "./chunks/fb/fbd0c440e4e06805551511d2cbfebc89c2c103ae.js"
     },
-    "./chunks/1d/1d7d749328db2cb13c19d156484659f2824f22e4.js": {
+    "./chunks/fb/fbd0c440e4e06805551511d2cbfebc89c2c103ae.js": {
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
-    "./chunks/96/9640676adc2a59df7710ea588078999c64fcf06f.js": {
+    "./chunks/3f/3f70e0109fb28558ca32e17a64764d0c5b1ddfad.js": {
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
-    "./chunks/a5/a5b106bb04981615ce91eb6366f1312f3cbefd34.js": {
+    "./chunks/6c/6cdbd88628d28d17b3e3022ff3ce75f40d8e8919.js": {
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
-    "./chunks/c6/c6edd1580601d1dabc570b90b190fc14d44a264e.js": {
+    "./chunks/cd/cdcbe283a31a32c4f03d62d699860f3ae2cf28dc.js": {
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
-    "./chunks/5b/5bcbafd60626b1d189abaaf2b17ea26fc973449a.js": {
+    "./chunks/85/851d93ff90910440302051c661cf42059e01aef1.js": {
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
-    "./chunks/fd/fd80061ad4be141ec483ee176e53c35041d84473.js": {
+    "./chunks/91/91013bee096981094c31d21df6f5b325087d764f.js": {
       "__unresolved_0": "./chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js",
-      "__unresolved_1": "./chunks/c6/c6edd1580601d1dabc570b90b190fc14d44a264e.js",
-      "__unresolved_2": "./chunks/5b/5bcbafd60626b1d189abaaf2b17ea26fc973449a.js",
-      "__unresolved_3": "./chunks/96/9640676adc2a59df7710ea588078999c64fcf06f.js",
+      "__unresolved_1": "./chunks/cd/cdcbe283a31a32c4f03d62d699860f3ae2cf28dc.js",
+      "__unresolved_2": "./chunks/85/851d93ff90910440302051c661cf42059e01aef1.js",
+      "__unresolved_3": "./chunks/3f/3f70e0109fb28558ca32e17a64764d0c5b1ddfad.js",
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
     "./chunks/47/47a1530b86f8dba752d13f037cd555503db82c41.js": {

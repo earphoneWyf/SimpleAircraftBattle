@@ -1,0 +1,166 @@
+2024-5-31 16:52:34-log: Cannot access game frame or container.
+2024-5-31 16:52:34-debug: asset-db:require-engine-code (733ms)
+2024-5-31 16:52:34-log: meshopt wasm decoder initialized
+2024-5-31 16:52:34-log: [box2d]:box2d wasm lib loaded.
+2024-5-31 16:52:35-log: [bullet]:bullet wasm lib loaded.
+2024-5-31 16:52:36-log: Cocos Creator v3.8.2
+2024-5-31 16:52:42-debug: [Assets Memory track]: asset-db-plugin-enable: builder start:108.67MB, end 198.67MB, increase: 90.00MB
+2024-5-31 16:52:42-debug: [Assets Memory track]: asset-db-plugin-register: engine-extends start:108.15MB, end 195.41MB, increase: 87.26MB
+2024-5-31 16:52:42-debug: [Assets Memory track]: asset-db-plugin-enable: project start:108.32MB, end 195.42MB, increase: 87.10MB
+2024-5-31 16:52:36-debug: [Assets Memory track]: asset-db-plugin-register: programming start:106.66MB, end 108.10MB, increase: 1.45MB
+2024-5-31 16:52:36-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:18.44MB, end 106.06MB, increase: 87.62MB
+2024-5-31 16:52:42-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:106.06MB, end 195.69MB, increase: 89.63MB
+2024-5-31 16:52:42-debug: run package(web-desktop) handler(enable) start
+2024-5-31 16:52:42-debug: run package(web-desktop) handler(enable) success!
+2024-5-31 16:52:42-debug: run package(web-mobile) handler(enable) success!
+2024-5-31 16:52:42-debug: run package(wechatgame) handler(enable) start
+2024-5-31 16:52:42-debug: run package(web-mobile) handler(enable) start
+2024-5-31 16:52:42-debug: run package(wechatgame) handler(enable) success!
+2024-5-31 16:52:42-debug: run package(windows) handler(enable) start
+2024-5-31 16:52:42-debug: run package(windows) handler(enable) success!
+2024-5-31 16:52:42-debug: run package(wechatprogram) handler(enable) start
+2024-5-31 16:52:42-debug: run package(wechatprogram) handler(enable) success!
+2024-5-31 16:52:42-debug: run package(xiaomi-quick-game) handler(enable) success!
+2024-5-31 16:52:42-debug: run package(cocos-service) handler(enable) start
+2024-5-31 16:52:42-debug: run package(cocos-service) handler(enable) success!
+2024-5-31 16:52:42-debug: run package(placeholder) handler(enable) start
+2024-5-31 16:52:42-debug: run package(im-plugin) handler(enable) start
+2024-5-31 16:52:42-debug: run package(im-plugin) handler(enable) success!
+2024-5-31 16:52:42-debug: run package(fix-device) handler(enable) success!
+2024-5-31 16:52:42-debug: run package(fix-device) handler(enable) start
+2024-5-31 16:52:42-debug: run package(placeholder) handler(enable) success!
+2024-5-31 16:52:42-debug: Run asset db hook programming:beforePreStart ...
+2024-5-31 16:52:42-debug: Run asset db hook engine-extends:beforePreStart success!
+2024-5-31 16:52:42-debug: Run asset db hook programming:beforePreStart success!
+2024-5-31 16:52:42-debug: Run asset db hook engine-extends:beforePreStart ...
+2024-5-31 16:52:42-debug: asset-db:worker-init: initPlugin (6060ms)
+2024-5-31 16:52:42-debug: [Assets Memory track]: asset-db:worker-init start:18.44MB, end 196.99MB, increase: 178.56MB
+2024-5-31 16:52:42-debug: run package(xiaomi-quick-game) handler(enable) start
+2024-5-31 16:52:43-debug: asset-db:worker-init (9968ms)
+2024-5-31 16:52:43-debug: asset-db-hook-programming-beforePreStart (1763ms)
+2024-5-31 16:52:43-debug: Preimport db internal success
+2024-5-31 16:52:43-debug: asset-db-hook-engine-extends-beforePreStart (1763ms)
+2024-5-31 16:52:43-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/prefabbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:43-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplanebackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:43-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/backgroundbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:43-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resourcesbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:43-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/scriptbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:43-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplanebackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:43-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bulletbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:43-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/beebackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:43-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/enemy-deathbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:43-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/herobackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:43-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/BgController.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:43-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/BulletController.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:43-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/EnemyController.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:43-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/EnemyManager.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:43-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/PlayerController.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:43-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/GameController.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:43-debug: Run asset db hook programming:afterPreStart ...
+2024-5-31 16:52:43-debug: Preimport db assets success
+2024-5-31 16:52:43-debug: starting packer-driver...
+2024-5-31 16:52:43-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/gamestatebackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:44-debug: initialize scripting environment...
+2024-5-31 16:52:44-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-31 16:52:44-debug: [Assets Memory track]: asset-db:worker-init: preStart start:197.00MB, end 211.89MB, increase: 14.89MB
+2024-5-31 16:52:44-debug: Run asset db hook engine-extends:afterPreStart ...
+2024-5-31 16:52:44-debug: Run asset db hook engine-extends:afterPreStart success!
+2024-5-31 16:52:44-debug: Start up the 'internal' database...
+2024-5-31 16:52:44-debug: Run asset db hook programming:afterPreStart success!
+2024-5-31 16:52:45-debug: asset-db-hook-programming-afterPreStart (1885ms)
+2024-5-31 16:52:45-debug: asset-db:worker-effect-data-processing (1058ms)
+2024-5-31 16:52:45-debug: asset-db-hook-engine-extends-afterPreStart (1058ms)
+2024-5-31 16:52:45-debug: Start up the 'assets' database...
+2024-5-31 16:52:46-debug: asset-db:worker-startup-database[internal] (3459ms)
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/scene.scenebackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/prefab/airplane.prefabbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/prefab/bullet.prefabbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/prefab/BackBtn.prefabbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/prefab/hero.prefabbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/airplane.pngbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/background/background.pngbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee0.pngbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee2.pngbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee1.pngbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/airplane.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/background/background.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee1.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee0.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/airplane.png@f9941background: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee0.png@f9941background: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee2.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee1.png@f9941background: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/background/background.png@f9941background: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee2.png@f9941background: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee4.pngbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee3.pngbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane0.pngbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane1.pngbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane2.pngbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee4.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane1.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane0.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee4.png@f9941background: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee3.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee3.png@f9941background: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane0.png@f9941background: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane1.png@f9941background: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane2.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane2.png@f9941background: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane3.pngbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane4.pngbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bullet/bullet.pngbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/gamestate/gameover.pngbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bullet/bullet.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane3.png@f9941background: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane4.png@f9941background: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane3.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bullet/bullet.png@f9941background: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane4.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/gamestate/gameover.png@f9941background: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/gamestate/gameover.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/gamestate/pause.pngbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/gamestate/start.pngbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/hero/hero1.pngbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/gamestate/pause.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/hero/hero0.pngbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/gamestate/pause.png@f9941background: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/enemy-death/airplane1.pngbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/gamestate/start.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/gamestate/start.png@f9941background: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/hero/hero1.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/hero/hero0.png@f9941background: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/hero/hero0.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/hero/hero1.png@f9941background: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/enemy-death/airplane1.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/enemy-death/airplane2.pngbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/enemy-death/airplane3.pngbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/enemy-death/airplane4.pngbackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/enemy-death/airplane2.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/enemy-death/airplane2.png@f9941background: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/enemy-death/airplane1.png@f9941background: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/enemy-death/airplane4.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/enemy-death/airplane3.png@f9941background: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/enemy-death/airplane3.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: %cImport%c: /Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/enemy-death/airplane4.png@f9941background: #aaff85; color: #000;color: #000;
+2024-5-31 16:52:46-debug: [Assets Memory track]: asset-db:worker-startup-database[assets] start:208.90MB, end 212.84MB, increase: 3.94MB
+2024-5-31 16:52:46-debug: asset-db:ready (14310ms)
+2024-5-31 16:52:46-debug: asset-db:worker-startup-database[assets] (2649ms)
+2024-5-31 16:52:46-debug: init worker message success
+2024-5-31 16:52:46-debug: asset-db:start-database (4422ms)
+2024-5-31 16:52:47-debug: [Build Memory track]: builder:worker-init start:208.36MB, end 195.07MB, increase: -13611.24KB
+2024-5-31 16:52:47-debug: programming:execute-script (1ms)
+2024-5-31 16:52:47-debug: builder:worker-init (474ms)
+2024-5-31 16:52:48-debug: programming:execute-script (3ms)
+2024-5-31 16:56:38-debug: refresh db internal success
+2024-5-31 16:56:38-debug: refresh db assets success
+2024-5-31 16:56:38-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-31 16:56:38-debug: asset-db:refresh-all-database (141ms)
+2024-5-31 16:56:38-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-31 16:59:31-debug: refresh db internal success
+2024-5-31 16:59:31-debug: refresh db assets success
+2024-5-31 16:59:31-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-31 16:59:31-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-31 16:59:31-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-31 16:59:31-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2024-5-31 16:59:31-debug: asset-db:refresh-all-database (206ms)

@@ -365,11 +365,111 @@
           "messages": []
         }
       },
-      "timestamp": 1717139208343
+      "timestamp": 1717145564083
+    },
+    "91013bee096981094c31d21df6f5b325087d764f": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "6a5019a719a9014c047e67aa1cf34453ab8392ce"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "cdcbe283a31a32c4f03d62d699860f3ae2cf28dc"
+          },
+          "messages": []
+        },
+        "__unresolved_2": {
+          "resolved": {
+            "type": "chunk",
+            "id": "851d93ff90910440302051c661cf42059e01aef1"
+          },
+          "messages": []
+        },
+        "__unresolved_3": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3f70e0109fb28558ca32e17a64764d0c5b1ddfad"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1717145564177
     },
     "6a5019a719a9014c047e67aa1cf34453ab8392ce": {
       "imports": {},
-      "timestamp": 1717139208376
+      "timestamp": 1717145564185
+    },
+    "cdcbe283a31a32c4f03d62d699860f3ae2cf28dc": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1717145564226
+    },
+    "851d93ff90910440302051c661cf42059e01aef1": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1717145564246
+    },
+    "3f70e0109fb28558ca32e17a64764d0c5b1ddfad": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1717145564305
+    },
+    "6cdbd88628d28d17b3e3022ff3ce75f40d8e8919": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1717145564331
+    },
+    "fbd0c440e4e06805551511d2cbfebc89c2c103ae": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1717145564387
     },
     "6d8fd2b0177941b032ddc0733af48a561fb60657": {
       "imports": {
@@ -383,58 +483,58 @@
         "__unresolved_1": {
           "resolved": {
             "type": "chunk",
-            "id": "fd80061ad4be141ec483ee176e53c35041d84473"
+            "id": "91013bee096981094c31d21df6f5b325087d764f"
           },
           "messages": []
         },
         "__unresolved_2": {
           "resolved": {
             "type": "chunk",
-            "id": "5bcbafd60626b1d189abaaf2b17ea26fc973449a"
+            "id": "851d93ff90910440302051c661cf42059e01aef1"
           },
           "messages": []
         },
         "__unresolved_3": {
           "resolved": {
             "type": "chunk",
-            "id": "c6edd1580601d1dabc570b90b190fc14d44a264e"
+            "id": "cdcbe283a31a32c4f03d62d699860f3ae2cf28dc"
           },
           "messages": []
         },
         "__unresolved_4": {
           "resolved": {
             "type": "chunk",
-            "id": "a5b106bb04981615ce91eb6366f1312f3cbefd34"
+            "id": "6cdbd88628d28d17b3e3022ff3ce75f40d8e8919"
           },
           "messages": []
         },
         "__unresolved_5": {
           "resolved": {
             "type": "chunk",
-            "id": "9640676adc2a59df7710ea588078999c64fcf06f"
+            "id": "3f70e0109fb28558ca32e17a64764d0c5b1ddfad"
           },
           "messages": []
         },
         "__unresolved_6": {
           "resolved": {
             "type": "chunk",
-            "id": "1d7d749328db2cb13c19d156484659f2824f22e4"
+            "id": "fbd0c440e4e06805551511d2cbfebc89c2c103ae"
           },
           "messages": []
         }
       },
-      "timestamp": 1717139211618
+      "timestamp": 1717145567057
     }
   },
   "entries": {
     "cce:/internal/x/cc": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b",
     "cce:/internal/x/prerequisite-imports": "6d8fd2b0177941b032ddc0733af48a561fb60657",
     "file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "47a1530b86f8dba752d13f037cd555503db82c41",
-    "file:///Users/wangyifeng1/AircraftBattle/assets/script/BgController.ts": "fd80061ad4be141ec483ee176e53c35041d84473",
-    "file:///Users/wangyifeng1/AircraftBattle/assets/script/BulletController.ts": "5bcbafd60626b1d189abaaf2b17ea26fc973449a",
-    "file:///Users/wangyifeng1/AircraftBattle/assets/script/EnemyController.ts": "c6edd1580601d1dabc570b90b190fc14d44a264e",
-    "file:///Users/wangyifeng1/AircraftBattle/assets/script/EnemyManager.ts": "a5b106bb04981615ce91eb6366f1312f3cbefd34",
-    "file:///Users/wangyifeng1/AircraftBattle/assets/script/GameController.ts": "9640676adc2a59df7710ea588078999c64fcf06f",
-    "file:///Users/wangyifeng1/AircraftBattle/assets/script/PlayerController.ts": "1d7d749328db2cb13c19d156484659f2824f22e4"
+    "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/BgController.ts": "91013bee096981094c31d21df6f5b325087d764f",
+    "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/BulletController.ts": "851d93ff90910440302051c661cf42059e01aef1",
+    "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/EnemyController.ts": "cdcbe283a31a32c4f03d62d699860f3ae2cf28dc",
+    "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/EnemyManager.ts": "6cdbd88628d28d17b3e3022ff3ce75f40d8e8919",
+    "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/GameController.ts": "3f70e0109fb28558ca32e17a64764d0c5b1ddfad",
+    "file:///Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/PlayerController.ts": "fbd0c440e4e06805551511d2cbfebc89c2c103ae"
   }
 }

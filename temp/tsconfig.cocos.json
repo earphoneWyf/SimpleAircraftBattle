@@ -15,7 +15,7 @@
         "/Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/*"
       ],
       "db://assets/*": [
-        "/Users/wangyifeng1/AircraftBattle/assets/*"
+        "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/*"
       ]
     },
     "experimentalDecorators": true,

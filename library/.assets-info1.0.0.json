@@ -308,6 +308,314 @@
     "/Users/wangyifeng1/AircraftBattle/assets/prefab/BackBtn.prefab": {
       "time": 1713863597013.5608,
       "uuid": "05bf4974-a0a0-48ed-ba97-b189d9c1a1d1"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/prefab": {
+      "time": 1713843102444.8186,
+      "uuid": "6b15e62f-07bc-4d59-9f68-1402d377b8ca"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources": {
+      "time": 1713773598005.8484,
+      "uuid": "f92e6d46-ca22-45ea-92a9-11c53c7d7fc7"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script": {
+      "time": 1713787927017.8704,
+      "uuid": "5d3991e8-361d-4ebb-91b9-705d3809befb"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane": {
+      "time": 1713783204077.6794,
+      "uuid": "5f3ca119-aa9c-44dc-b2f1-7552c5a8b310"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/background": {
+      "time": 1713773233626.979,
+      "uuid": "f525cc7b-0131-4b1c-b94a-813a8ea31a15"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee": {
+      "time": 1713773325315.9604,
+      "uuid": "be613269-2a43-4f61-a5ee-0ba5b72057ce"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane": {
+      "time": 1713773374818.5193,
+      "uuid": "b13f72ef-409b-4d71-b08f-a01aeb095a5a"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bullet": {
+      "time": 1713773385964.1528,
+      "uuid": "c0824fb1-3e56-428e-a277-8bf45cee3f4e"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/gamestate": {
+      "time": 1713773607322.077,
+      "uuid": "4c7e5304-72c3-4068-9e50-79c0c1a6a1e8"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/hero": {
+      "time": 1713773252076.0923,
+      "uuid": "9b5b0a38-2e53-4e03-9423-1b35ef2eb4ad"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/enemy-death": {
+      "time": 1713783204077.6794,
+      "uuid": "d597b762-7938-439a-919f-08a0f3226d92"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/BgController.ts": {
+      "time": 1713939506162.4314,
+      "uuid": "f0da5650-ab32-446d-ad9f-791320d6e1b9"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/BulletController.ts": {
+      "time": 1713784676398.3635,
+      "uuid": "fffe3f4b-0b0c-4405-ae68-67dc17f3079f"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/EnemyController.ts": {
+      "time": 1713854694604.4338,
+      "uuid": "8331fb42-a366-4d05-8b69-75a01252183f"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/EnemyManager.ts": {
+      "time": 1713778367322.6096,
+      "uuid": "e5def689-5c2d-4859-8166-94a72d72556d"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/GameController.ts": {
+      "time": 1713939028827.8557,
+      "uuid": "1abd3e38-e432-4856-9253-8d58aa13ea42"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/PlayerController.ts": {
+      "time": 1713777109279.8818,
+      "uuid": "599b5ba2-ce6e-42eb-8120-258e79fcd872"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/prefab.meta": {
+      "time": 1713776254898.2039
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources.meta": {
+      "time": 1713786248790.485
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script.meta": {
+      "time": 1713773920713.1084
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane.meta": {
+      "time": 1713773185795.5596
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/background.meta": {
+      "time": 1713773201119.4995
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee.meta": {
+      "time": 1713773318387.5718
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane.meta": {
+      "time": 1713773359189.8264
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bullet.meta": {
+      "time": 1713773209227.5244
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/gamestate.meta": {
+      "time": 1713773598009.4382
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/hero.meta": {
+      "time": 1713773218514.4502
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/enemy-death.meta": {
+      "time": 1713783186018.0059
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/BgController.ts.meta": {
+      "time": 1713773949859.4136
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/BulletController.ts.meta": {
+      "time": 1713776219977.0894
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/EnemyController.ts.meta": {
+      "time": 1713777602014.7847
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/EnemyManager.ts.meta": {
+      "time": 1713778020329.7673
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/GameController.ts.meta": {
+      "time": 1713787927019.967
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/script/PlayerController.ts.meta": {
+      "time": 1713774905636.0159
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/scene.scene": {
+      "time": 1713940324793.9502,
+      "uuid": "00d0038f-6501-4aca-9019-e889f5434aa0"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/prefab/BackBtn.prefab": {
+      "time": 1713863597013.5608,
+      "uuid": "05bf4974-a0a0-48ed-ba97-b189d9c1a1d1"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/prefab/airplane.prefab": {
+      "time": 1713779287191.3594,
+      "uuid": "2818b5f8-a2e8-409e-9756-c2cc9618652c"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/prefab/bullet.prefab": {
+      "time": 1713779263330.0608,
+      "uuid": "ac44742c-80b5-45e4-9503-2d8124d7a637"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/prefab/hero.prefab": {
+      "time": 1713839432922.4768,
+      "uuid": "3f6b43d4-9597-484c-b211-03c61b854301"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/airplane.png": {
+      "time": 1713773305720.8633,
+      "uuid": "264326aa-704c-4de4-bf33-a626163f7944"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/background/background.png": {
+      "time": 1713773233625.483,
+      "uuid": "76f88eb6-4674-4c04-bdb5-1cc87c44e01a"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee0.png": {
+      "time": 1713773325312.309,
+      "uuid": "a9e0ba85-16c7-43df-bb41-6eb5162192f0"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee1.png": {
+      "time": 1713773325312.3013,
+      "uuid": "6067fec9-d82a-4bb7-918f-7185eaf9e21f"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee2.png": {
+      "time": 1713773325312.6177,
+      "uuid": "270ec70b-13a0-4aa4-a293-c3296b867073"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee3.png": {
+      "time": 1713773325312.606,
+      "uuid": "b0b0afbb-1d37-4bdf-b71b-338e56d0c3a8"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee4.png": {
+      "time": 1713773325313.427,
+      "uuid": "33fc8cb2-6cc3-4325-9956-a18b03074f51"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane0.png": {
+      "time": 1713773364277.6228,
+      "uuid": "383af469-e3a5-41c6-a813-2d828d9e509a"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane1.png": {
+      "time": 1713773374812.4324,
+      "uuid": "a5faedeb-8cb8-4705-b914-ce8be368e391"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane2.png": {
+      "time": 1713773374812.4377,
+      "uuid": "55c1d3fd-befa-4d89-8baf-3511e8a5792a"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane3.png": {
+      "time": 1713773374812.4219,
+      "uuid": "71e81bad-7525-4bbb-9ebe-2b70f38329c8"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane4.png": {
+      "time": 1713773374812.3967,
+      "uuid": "90ac5278-10d3-4ca8-ac04-eec8e9ac5efb"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bullet/bullet.png": {
+      "time": 1713773385963.119,
+      "uuid": "d511253c-39c3-4acf-920d-ad22c1a66574"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/gamestate/gameover.png": {
+      "time": 1713773607321.2512,
+      "uuid": "4e12c0cf-9edd-4331-940f-479685f23a3e"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/gamestate/pause.png": {
+      "time": 1713773604119.106,
+      "uuid": "b6459fe3-89c0-45a1-96dd-e4b85e851108"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/gamestate/start.png": {
+      "time": 1713773604119.293,
+      "uuid": "8df8cbde-3c51-4256-b7e0-2e7ef9f45007"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/hero/hero0.png": {
+      "time": 1713773252064.0703,
+      "uuid": "20e5c305-4cbd-4d6d-a52b-7ccf176fef38"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/hero/hero1.png": {
+      "time": 1713773252064.0706,
+      "uuid": "5ca55f4a-ffcd-4114-a4d8-ee3aa42b64db"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/enemy-death/airplane1.png": {
+      "time": 1713773305720.8647,
+      "uuid": "98a05e64-f3c4-4810-9c2f-d0780af519ba"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/enemy-death/airplane2.png": {
+      "time": 1713773305721.1602,
+      "uuid": "e4975f80-9638-4a19-acd8-7c785b52c4dc"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/enemy-death/airplane3.png": {
+      "time": 1713773305721.1477,
+      "uuid": "c06f2a22-4482-460c-ae9f-91dad301f939"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/enemy-death/airplane4.png": {
+      "time": 1713773305723.4077,
+      "uuid": "a8356c04-8553-4051-90a3-22d7c2ec28c9"
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/scene.scene.meta": {
+      "time": 1713777492766.3
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/prefab/bullet.prefab.meta": {
+      "time": 1713776394048.8962
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/prefab/hero.prefab.meta": {
+      "time": 1713839432924.1326
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/prefab/airplane.prefab.meta": {
+      "time": 1713777992453.2922
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/prefab/BackBtn.prefab.meta": {
+      "time": 1713843102447.784
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/airplane.png.meta": {
+      "time": 1713783164231.8713
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/background/background.png.meta": {
+      "time": 1713773233643.4192
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee0.png.meta": {
+      "time": 1713773325333.4553
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee1.png.meta": {
+      "time": 1713773325350.9827
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee2.png.meta": {
+      "time": 1713773325365.9717
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane0.png.meta": {
+      "time": 1713773364285.7021
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee4.png.meta": {
+      "time": 1713773325411.285
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bee/bee3.png.meta": {
+      "time": 1713773325395.2336
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane1.png.meta": {
+      "time": 1713773374835.6584
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane2.png.meta": {
+      "time": 1713773374854.6475
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane3.png.meta": {
+      "time": 1713773374847.3047
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bigplane/bigplane4.png.meta": {
+      "time": 1713773374826.562
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/bullet/bullet.png.meta": {
+      "time": 1713773385973.0815
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/gamestate/gameover.png.meta": {
+      "time": 1713773607346.1199
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/gamestate/pause.png.meta": {
+      "time": 1713773604151.4358
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/gamestate/start.png.meta": {
+      "time": 1713773604181.3442
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/hero/hero0.png.meta": {
+      "time": 1713773252090.206
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/hero/hero1.png.meta": {
+      "time": 1713773252111.0388
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/enemy-death/airplane1.png.meta": {
+      "time": 1713773305742.784
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/enemy-death/airplane2.png.meta": {
+      "time": 1713773305843.6943
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/enemy-death/airplane3.png.meta": {
+      "time": 1713773305816.6648
+    },
+    "/Users/wangyifeng1/Desktop/simpleaircraftbattle/assets/resources/airplane/enemy-death/airplane4.png.meta": {
+      "time": 1713773305896.7563
     }
   },
   "missing": {
